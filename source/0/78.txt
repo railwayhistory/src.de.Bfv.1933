@@ -1,0 +1,339 @@
+---
+name: Achim
+rnr: 13 746
+rang: III
+strecke: Langwedel—Bremen Hbf 053
+bm: 63 233
+b: Nienburg (Weser) 63 230
+m: (1) Bremen 63 510
+v: Bremen 63 420
+karte: Lc 7
+rwh: point.de.Achim
+---
+name: Achkarren
+pnr: 51 846
+strecke: Riegel—Breisach
+karte: Jh 8
+rwh: point.de.Achkarren
+---
+name: Achmer
+rnr: 23 077
+rang: H+
+limit: b
+strecke: Quackenbrück—Osnabrück-Eversburg 009
+b: (3) Oldenburg (Oldbg) 73 030
+m: Oldenburg (Oldb) 73 500
+vb: Oldenburg (Oldb) 73 730
+karte: Jd 6
+rwh: point.de.Achmer
+---
+name: Achodden{Mu Ortelsburg}
+rnr: 16 508
+rang: IV
+limit: e u
+strecke: Rothfließ—Ortelsburg 627
+b: Ortelsburg 66 280
+karte: Xc 4
+rwh: point.pl.Ochódno
+---
+name: Acholdshausen
+rnr: 22 678
+rang: IV+
+strecke: Ochsenfurt—Röttingen (Ufr) 697
+b: (1) Würzburg 72 120
+m: (1) Würzburg 72 560
+v: Würzburg 72 440
+karte: Mg 4
+rwh: point.de.Acholdshausen
+---
+name: Achterberg{Mu Gildehaus Bent E}
+pnr: 61 806
+limit: e og u
+strecke: Gronau (Westf)—Bentheim
+karte: Jd 7
+rwh: point.de.Achterberg
+---
+name: Achtrup
+rnr: 01 486
+rang: IV+
+strecke: Flensburg—Niebüll 627
+b: Flensburg 51 020
+m: Flensburg 51 520
+v: Flensburg 51 410
+karte: Lb 1
+rwh: point.de.Achtrup
+---
+name: Ackelningken
+kleinb: Niederungsbahn
+limit: OK Sm
+uebergang: Groß Brittanien 29 km
+rwh: point.ru.Ровное
+---
+name: Ackendorf
+pnr: 43 883
+strecke: Neuhaldensleben—Eilsleben (Bez Magdeburg)
+karte: Nd 8
+rwh: point.de.Ackendorf
+---
+name: Adamsdorf
+rnr: 25 056
+rang: IV
+strecke: Glasow—Arnswalde 643
+b: Soldin 75 130
+m: Landsberg (Warthe) 75 530
+v: Küstrin 75 420
+karte: Rd 1
+rwh: point.pl.Sulimierz
+---
+name: Adamsheide (Kr Darkehmen)
+kleinb: Insterburger Kleinbahnen
+limit: OR Sm
+uebergang: Nordenburg 24 km
+rwh: point.ru.Абелино
+---
+name: Adelberg-Börtlingen
+rnr: 29 569
+rang: H
+strecke: Gmünd (Schwäbisch) Hbf—Göppingen 7623
+b: Eßlingen 79 040
+m: Heilbronn 79 500
+v: (2) Stuttgart 79 420
+karte: Lh 2/3
+rwh: point.de.Adelberg-Börtlingen
+---
+name: Adelebsen
+rnr: 05 156
+rang: III
+strecke: Göttingen—Bodenfelde
+bm: 55 021
+b: (1) Göttingen 55 020
+m: Göttingen 55 500
+v: Göttingen 55 400
+karte: Le 6
+rwh: point.de.Adelebsen
+---
+name: Adelschlag
+rnr: 20 403
+rang: III
+strecke: Treuchtlingen—München 001
+b: Ingolstadt 70 000
+m: Ingolstadt 70 500
+v: (2) München 70 410
+karte: Nh 1
+rwh: point.de.Adelschlag
+---
+name: Adelsdorf (Mfr)
+rnr: 22 493
+rang: IV+
+strecke: Siegelsdorf—Markt Erlbach 639
+b: Fürth (Bay) 72 050
+m: (2) Nürnberg 72 540
+v: (1) Nürnberg 72 420
+karte: Mg 6
+rwh: point.de.Adelsdorf-Mittelfr
+---
+name: Adelsdorf (Ofr)
+rnr: 22 138
+rang: IV+
+strecke: Forchheim (Ofr)—Höchstadt (Aisch) 633
+b: Fürth (Bay) 72 050
+m: (1) Nürnberg 72 520
+v: Bamberg 72 410
+karte: Mg 3
+rwh: point.de.Adelsdorf-Oberfr
+---
+name: Adelsdorf (Schlesien)
+rnr: 04 068
+rang: IV
+strecke: Goldberg (Schlesien)—Reisicht 657
+b: (1) Liegnitz 54 170
+m: Liegnitz 54 570
+v: Liegnitz 54 430
+karte: Re 9
+rwh: point.pl.Zagrodno
+---
+name: Adelsheim Nord
+rnr: 14 112
+rang: IV
+strecke: Neckarelz—Reichenberg b Würzburg 053
+b: Lauda 64 100
+m: Mannheim 64 550
+v: Mannheim 64 440
+karte: Lg 5
+rwh: point.de.Adelsheim-Nord
+---
+name: Adelsheim Ost
+rnr: 29 647
+rang: IV
+strecke: Bietigheim (Württ)—Osterburken 035
+b: Heilbronn 79 060
+m: Heilbronn 79 500
+v: Heilbronn 79 400
+karte: Lg 5
+rwh: point.de.Adelsheim-Ost
+---
+name: Adelsried
+rnr: 02 123
+rang: IV+
+strecke: Augsburg-Oberhausen—Welden 601
+b: (1) Augsburg 52 000
+m: Ausgburg 52 500
+v: Augsburg 53 400
+karte: Mh 6
+rwh: point.de.Adelsried
+---
+name: Adenau
+rnr: 15 539
+rang: III
+strecke: Remagen—Adenau 615
+bm: (128) 65 081
+b: (1) Koblenz 65 080
+m: Koblenz 65 520
+v: (1) Koblenz 65 440
+karte: Hf 6
+rwg: point.de.Adenau
+---
+name: Adendorf
+rnr: 01 160
+rang: IV
+limit: b
+strecke: Lüneburg—Büchen 019
+b: Lüneburg 51 110
+m: Wittenberge 51 590
+v: Harburg-Wilhelmsburg 51 430
+karte: Me 8
+rwh: point.de.Adendorf
+---
+name: Adldorf
+rnr: 26 428
+rang: IV+
+strecke: Aufhausen (Ndb)—Kröhstorf 623
+b: Plattling 76 060
+m: Passau 76 520
+v: Passau 76 410
+karte: Oh 6
+rwh: point.de.Adldorf
+---
+name: Adlershof-Alt Glienicke
+rnr: 03 322
+rang: IV
+strecke: Cottbus—Berlin Görlitzer Bf 093
+g: 323
+b: (5) Berlin 53 060
+m: (1) Berlin 53 500
+m: (4) Berlin 53 560
+m: (5) Berlin 53 570
+v: (3) Berlin 53 430
+karte: II PD 5
+rwh: point.de.Berlin-Adlershof
+---
+name: Adlig Beyershagen
+kleinb: Franzburger Kreisbahnen
+limit: OR Sm
+uebergang: Barth 24 km
+uebergang: Damgarten 5 km
+uebergang: Stralsund 53 km
+rwh: point.de.Dechowshof
+---
+name: Adolfseck
+rnr: 11 481
+rang: H
+limit: e
+strecke: Diez—Schwalbach 695
+b: Limburg (Lahn) 61 120
+m: Limburg (Lahn) 61 580
+v: Limburg (Lahn) 61 440
+karte: Kf 7
+rwh: point.de.Bad-Schwalbach-Adolfseck
+---
+name: Adolfshof{Mu Hämelerwald Ost}
+pnr: 53 838
+limit: b u
+strecke: Hildesheim—Hämelerwald
+karte: Kf 7
+rwh: point.de.Adolfshof
+---
+name: Adolfshütte
+rnr: 11 648
+rang: H
+limit: e
+strecke: Biedenkopf—Dillenburg 737
+b: Wetzlar 61 140
+m: Gießen 61 540
+v: Gießen 61 430
+karte: Kf 1/2
+rwh: point.de.Adolfshütte
+---
+name: Adolphschlieben-Pentlack
+kleinb: Insterburger Kleinbahnen
+limit: OK Sm
+uebergang: Nordenburg 5 km
+rwh: point.ru.Каменка
+---
+name: Adorf (Erzgeb)
+rnr: 06 640
+rang: H
+strecke: Chemnitz Süd—Stollberg (Sa) 685
+b: (2) Chemnitz 56 030
+m: Chemnitz 56 510
+v: (1) Chemnitz 56 420
+e: Chemnitz 56 600
+karte: Of 3
+rwh: point.de.Adorf-Erzgeb
+---
+name: Adorf (Vogtl)
+rnr: 06 801
+rang: I
+strecke: Plauen (Vogtl) ob Bf—Eger 077
+bm: 56 181
+bw: 56 561
+b: Oelsnitz (Vogtl) 56 180
+m: Plauen (Vogtl) 56 560
+v: Plauen (Vogtl) 56 480
+e: Chemnitz 56 600
+karte: Of 7
+rwh: point.de.Adorf-Vogtl
+---
+name: Äpfingen
+rnr: 29 129
+rang: IV+
+limit: Smr
+strecke: Biberach (Württ)—Ochsenhausen 901
+b: Friedrichshafen 79 050
+m: Ulm 79 560
+v: Ulm 79 440
+karte: Lh 9
+rwh: point.de.Äpfingen
+---
+name: Aerzen
+rnr: 13 474
+rang: III
+strecke: Bielefeld Hbf—Hameln 601
+b: Detmold 63 070
+m: Hameln 63 540
+v: Hameln 63 440
+karte: Ld 7
+rwh: point.de.Aerzen
+---
+name: Affalter
+rnr: 06 646
+rang: IV+
+limit: b
+strecke: Stollberg (Sa)—Scheibenberg 691
+b: Schwarzenberg 56 220
+m: Zwickau (Sa) 56 570
+v: Zwickau (Sa) 56 490
+e: Chemnitz 56 600
+karte: Of 6
+rwh: point.de.Affalter
+---
+name: Affaltrach
+rnr: 29 658
+rang: H
+strecke: Heilbronn—Crailsheim 039
+b: Heilbronn 79 060
+m: Heilbronn 79 500
+v: Heilbronn 79 400
+karte: Lg 8
+rwh: point.de.Affaltrach
+

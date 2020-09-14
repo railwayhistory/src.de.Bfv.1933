@@ -1,0 +1,287 @@
+---
+name: Aach-Linz
+rnr: 14 606
+rang: IV
+strecke: Schwackenreute—Pfullendorf 631
+b: Konstanz 64 090
+m: Konstanz 64 530
+v: Konstanz 64 430
+karte: Li 1
+rwh: point.de.Aach-Linz
+---
+name: Aachen Bleyberg Grenze
+rnr: 15 352
+rang: T
+karte: Hf 1
+---
+name: Aachen Hbf{Die E und G heißen nur Aachen}
+rnr: 15 345
+rang: I
+strecke: Köln—Aachen 091
+e: 346
+g: 348
+f: 65 401
+k: 65 402
+bm: (108) 65 009
+bm: (100) 65 001
+bw: 65 511
+b: Aachen 65 000
+m: Aachen 65 510
+v: Aachen 65 400
+karte: Hf 1
+rwh: point.de.Aachen-Hbf
+---
+name: Aachen Hbf I
+rnr: 15 351
+rang: A
+karte: Hf 1
+---
+name: Aachen Nord
+rnr: 15 369
+rang: II
+strecke: Aachen Nord—Jülich 669
+bm: (65) 65 071
+b: Jülich 65 070
+M: Aachen 65 510
+V: Aachen 65 400
+karte: Hf 1
+rwh: point.de.Aachen-Nord
+---
+name: Aachen Oberstraße
+kleinb: Aachener Kleinbahn
+limit: OR
+uebergang: Aachen-Rothe Erde 1 km
+rwh: point.de.Aachen-Oberstraße
+---
+name: Aachen-Rothe Erde
+rnr: 15 342
+rang: I
+strecke: Köln—Herbesthal 091
+g: 343
+bm: (101) 65 002
+b: Aachen 65 000
+m: Aachen 65 510
+v: Aachen 65 400
+karte: Hf 1
+rwh: point.de.Aachen-Rothe-Erde
+---
+name: Aachen-Rothe Erde
+kleinb: Aachener Kleinbahn
+limit: Sm
+uebergang: Aachen-Rothe Erde — km
+rwh: point.de.Aachen-Rothe-Erde-Kleinb
+---
+name: Aachen Süd
+rnr: 15 370
+rang: II
+strecke: Köln—Aachen 091
+b: Aachen 65 000
+m: Aachen 65 510
+v: Aachen 65 400
+karte: Hf 1
+rwh: point.de.Aachen-Süd
+---
+name: Aachen Süd Ausgang bei Aachen-Rothe Erde
+rnr: 15 374
+rang: A
+karte: Hf 1
+---
+name: Aachen Süd Grenze I
+rnr: 15 371
+rang: A
+karte: Hf 1
+---
+name: Aachen Süd Grenze Hergenrath
+rnr: 15 372
+rang: T
+karte: Hf 1
+rwh: point.int.Aachen-Hergenrath
+---
+name: Aachen Süd Grenze Montzen
+rnr: 15 373
+rang: T
+karte: Hf 1
+rwh: point.int.Aachen-Süd-Montzen
+---
+name: Aachen West
+rnr: 15 199
+rang: I
+strecke: Aachen—Neuß 115
+g: 200
+bm: (102) 65 003
+bw: 65 513
+b: Aachen 65 000
+m: Aachen 65 510
+v: Aachen 65 400
+karte: Hf 1
+rwh: point.de.Aachen-West
+---
+name: Aachen West
+kleinb: Aachener Kleinbahn
+limit: A Smr
+uebergang: Aachen West — km
+rwh: point.de.Aachen-West-Kleinb
+---
+name: Aachen West Grenze Montzen
+rnr: 15 203
+rang: T
+karte: Hf 1
+rwh; point.int.Aachen-West-Montzen
+---
+name: Aalen{Gemeinschaftsbf der RBD Stuttgart u der Württ Nebenbahn}
+rnr: 29 548
+rang: I
+strecke: Stuttgart—Nördlingen 027
+g: 549
+bm: (1) 79 001
+bm: (2) 79 002
+bw: 79 501
+b: Aalen 79 000
+m: Heilbronn 79 500
+v: (2) Stuttgart 79 420
+w: Aalen 99 955
+karte: Mh 1
+rwh: point.de.Aalen-Hbf
+---
+name: Aalen Härtsfeld Gbf
+pnr: 53 924
+limit: Sm
+strecke: Aalen—Dillingen (Donau)
+karte: Mh 1
+rwh: point.de.Aalen-Härtsfeld-Gbf
+---
+name: Aalen Härtsfeld Pbf
+pnr: 52 924
+limit: b e Sm
+strecke: Aalen—Dillingen (Donau)
+karte: Mh1
+rwh: point.de.Aalen-Härtsfeld-Pbf
+---
+name: Abbach
+rnr: 26 316
+rang: II
+strecke: Regensburg—Ingolstadt 035
+b: Regensburg 76 070
+m: Regensburg 76 540
+v: Regensburg 76 420
+karte: Oh 1
+rwh: point.de.Bad-Abbach
+---
+name: Abbehausen
+kleinb: Butjadinger Bahn
+uebergang: Nordenham 4 km
+rwh: point.de.Abbehausen
+---
+name: Abbenfleth
+kleinb: Kehdinger Kreisbahn
+limit: OR Sm
+uebergang: Stade 10 km
+rwh: point.de.Abbenfleth
+---
+name: Abelischken
+kleinb: Insterburger Kleinbahnen
+limit: OK Sm
+uebergang: Nordenburg 16 km
+rwh: point.ru.Белкино
+---
+name: Abelitz
+rnr: 21 103
+rang: III
+limit: e og
+strecke: Abelitz—Aurich 621
+b: Emden 71 090
+m: Rheine 71 560
+v: Emden 71 400
+karte: Jc 4
+rwh: point.de.Abelitz
+---
+name: Abenden
+rnr: 15 385
+rang: H†
+limit: p
+strecke: Düren—Heimbach 627
+b: Düren 65 040
+m: Aachen 65 510
+v: Düren 65 420
+karte: Hf 2
+rwh: point.de.Abenden
+---
+name: Abendstern
+rnr: 11 691
+rang: III
+strecke: Wetzlar—Lollar 689
+b: Wetzlar 61 140
+m: Gießen 61 540
+v: Gießen 61 430
+karte: Kf 5
+rwh: point.de.Abendstern
+---
+name: Abendstern Kleinb
+kleinb: Gießen—Bieber (Biebertalbahn)
+limit: OR Sm St
+uebergang: Abendstern — km
+uebergang: Gießen 5 km
+rwh: point.de.Abendstern-Kleinb
+---
+name: Abenheim
+rnr: 19 128
+rang: H†
+strecke: Grundheim—Worms 667
+b: Worms 69 090
+m: Worms 69 530
+v: Mainz 69 410
+karte: Kg 4
+rwh: point.de.Abenheim
+---
+name: Abensberg
+rnr: 26 323
+rang: III
+strecke: Regensburg—Ingolstadt 035
+bm: 76 071
+b: Regensburg 76 070
+m: Regensburg 76 540
+v: Regensburg 76 420
+karte: Nh 3
+rwh: point.de.Abensberg
+---
+name: Abscherningken
+kleinb: Insterburger Kleinbahnen
+limit: OR Sm
+uebergang: Insterburg 30 km
+uebergang: Nordenburg 29 km
+rwh: point.ru.Красноармейское
+---
+name: Abtsbessingen-Bellstedt
+pnr: 45 833
+strecke: Greußen—Keula (Thür) 
+karte: Me 9
+rwh: point.de.Abtsbessingen-Bellstedt
+---
+name: Achenmühle
+rnr: 20 171
+rang: IV+
+strecke: Rosenheim—Frasdorf 613
+b: Rosenheim 70 080
+m: Rosenheim 70 570
+v: Rosenheim 70 430
+karte: Oi 1
+rwh: point.de.Achenmühle
+---
+name: Achern{Gemeinschaftsbf der RBD Karlsruhe u der Achern—Ottenhöfener Eisenb}
+rnr: 14 275
+rang: II
+strecke: Karlsruhe—Offenburg 007
+e: {Besondere Tarifstelle, aber dem Bf unterstellt} 276
+b: (3) Karlruhe 64 080
+m: Karlsruhe 64 520
+v: Karlsruhe 64 420
+karte: Kh 4
+rwh: point.de.Achern
+---
+name: Achern Stadt{Mu Oberachern}
+pnr: 40 801
+limit: og u
+strecke: Achern—Ottenhöfen
+karte: Kh 4
+rwh: point.de.Achern-Stadt
+

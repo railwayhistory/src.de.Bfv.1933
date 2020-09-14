@@ -1,0 +1,306 @@
+---
+name: Affecking{Mu Kelheim}
+rnr: 26 318
+rang: H
+limit: p u
+strecke: Saal (Donau)—Kelheim 631
+b: Regensburg 76 070
+m: Regensburg 76 540
+v: Regensburg 76 420
+karte: Nh 3
+rwh: point.de.Affecking
+---
+name: Affolterbach
+rnr: 19 280
+rang: H+
+strecke: Wahlen—Mörlenbach 625
+b: (1) Darmstadt 69 020
+m: Darmstadt 69 500
+v: Darmstadt 69 400
+karte: Kg 6
+rwh: point.de.Affolterbach
+---
+name: Agathenburg
+rnr: 01 192
+rang: H
+strecke: Harburg-Wilhelmsburg—Cuxhaven 043
+b: Harburg-Wilhelmsburg 51 060
+m: Harburg-Wilhelmsburg 51 560
+v: Hamburg 51 420
+karte: Lc 5
+rwh: point.de.Agathenburg
+---
+name: Aglasterhausen
+rnr: 14 066
+rang: III
+strecke: Meckesheim—Neckarelz 061
+b: (1) Heildeberg 64 040
+m: Mannheim 64 550
+v: Mannheim 64 440
+karte: Kg 6
+rwh: point.de.Aglasterhausen
+---
+name: Agneshof
+kleinb: Mecklenburg-Pommersche Schmalspurbahn
+limit: FW OR Sm
+uebergang: Anklam 12 km
+uebergang: Ferdinandshof 29 km
+uebergang: Friedland (Meckl) 28 km
+uebergang: Groß Daberkow 47 km
+rwh: point.de.Agneshof
+---
+name: Aha
+rnr: 14 364
+rang: IV
+limit: b
+strecke: Titisee—Seebrugg 637
+b: (2) Freiburg (Breisgau) 64 030
+m: Freiburg (Breisgau) 64 500
+v: Freiburg (Breisgau) 64 410
+karte: Ki 1
+rwh: point.de.Aha
+---
+name: Ahaus{Gemeinschaftsbf der RBD Münster, der Ahaus—Enscheder Eisenb u der Westfälischen Landes-Eisenb}
+rnr: 21 123
+rang: II
+strecke: Bork (Westf)—Gronau (Westf) 089
+bm: 71 061
+b: Coesfeld (Westf) 71 060
+m: Münster (Westf) 71 520
+v: Münster (Westf) 71 430
+karte: Jd 7
+rwh: point.de.Ahaus
+---
+name: Ahausen
+kleinb: Bersenbrück—Ankum
+limit: OK
+uebergang: Bersenbrück 4 km
+rwh: point.de.Ahausen
+---
+name: Ahden
+rnr: 05 199
+rang: IV+
+strecke: Paderborn—Brilon Wald 605
+b: (1) Paderborn 55 120
+m: Paderborn 55 570
+v: Paderborn 55 430
+karte: Ke 5
+rwh: point.de.Ahden
+---
+name: Ahe
+pnr: 87 899
+limit: oe og Sm
+strecke: Hennef (Sieg)—Waldbröl
+karte: Jf 2
+rwh: point.de.Ahe
+---
+name: Ahlbeck Seebad
+rnr: 28 127
+rang: III
+strecke: Ducherow—Seebad Heringsdorf 017
+b: Prenzlau 78 120
+m: Stralsund 78 580
+v: (2) Stettin 78 440
+karte: Qc 1
+rwh: point.de.Seebad-Ahlbeck
+---
+name: Ahlden (Aller)
+rnr: 13 696
+rang: IV
+strecke: Wahnebergen—Celle Pbf 613
+b: (3) Hannover 63 160
+m: (1) Bremen 63 510
+v: Uelzen 63 470
+karte: Ld 2
+rwh: point.de.Ahlden-Aller
+---
+name: Ahle (Kr Herford)
+rnr: 21 171
+rang: III
+strecke: Kirchlengern—Osnabrück Hbf 113
+b: (2) Osnabrück 71 210
+m: Osnabrück 71 540
+v: Osnabrück 71 460
+karte: Kd 8
+rwh: point.de.Ahle-Herford
+---
+name: Ahlefeld
+kleinb: Eckernförde—Owschlag
+limit: OR Smr einböd
+uebergang: Eckernförde 17 km
+uebergang: Owschlag 9 km
+rwh: point.de.Ahlefeld
+---
+name: Ahlen (Westf)
+rnr: 13 616
+rang: II
+limit: og
+strecke: Heeßen—Löhne (Westf) Pbf 001
+b: Bielefeld 63 000
+m: Minden (Westf) 63 580
+v: Bielefeld 63 400
+karte: Je 3
+rwh: point.de.Ahlen-Westf
+---
+name: Ahlen (Westf) Gbf
+rnr: 13 617
+rang: II
+limit: op
+strecke: Heeßen—Löhne (Westf) Pbf 001
+bm: 63 003
+b: Bielefeld 63 000
+m: Minden (Westf) 63 580
+v: Bielefeld 63 400
+karte: Je 3
+rwh: point.de.Ahlen-Westf-Gbf
+---
+name: Ahler Kapelle{Mu Stadtlohn}
+pnr: 43 918
+limit: e og u{beschränkter Gepäckverkehr}
+strecke: Borken (Westf)—Burgsteinfurt
+karte: Jd 7
+rwh: point.de.Ahler-Kapelle
+---
+name: Ahlhorn
+rnr: 23 062
+rang: II
+strecke: Oldenburg (Oldbg)—Quakenbrück 007
+bm: 73 031
+b: (3) Oldenburg (Oldbg) 73 030
+m: Oldenburg (Oldbg) 73 500
+vb: Oldenburg (Oldbg) 73 730
+karte: Kd 1
+rwh: point.de.Ahlhorn
+---
+name: Ahlten
+kleinb: Straßenbahn Hannover
+limit: fr FW OR Stz Breitspur 1,445 m
+uebergang: Sehnde 8 km
+rwh: point.de.Ahlten
+---
+name: Ahlten (Han)
+rnr: 13 542
+rang: H
+strecke: Hannover Hbf—Lehrte Pbf 029
+b: (2) Hannover 63 140
+m: Hannover 63 550
+v: Hannover 63 450
+karte: Ld 6
+rwh: point.de.Ahlten-Han
+---
+name: Ahltener Kurve
+kleinb: Straßenbahn Hannover
+limit: fr FW OR Breitspur 1,445 m
+uebergang: Sehnde 7 km
+rwh: point.de.Ahltener-Kurve
+---
+name: Ahlum{Mu Hötzum}
+pnr: 61 810
+limit: b e u
+strecke: Hötzum—Mattierzoll
+karte: Md 8
+rwh: point.de.Ahlum
+---
+name: Ahlum Dorf
+kleinb: Altmärkische Kleinbahn
+limit: OR
+uebergang: Beetzendorf (Pr Sa) 7 km
+uebergang: Bismark (Pr Sa) 49 km
+uebergang: Gardelegen 56 km
+uebergang: Wittingen Reichsb 28 km
+rwh: point.de.Ahlum-Salzwedel
+---
+name: Ahlum Gut
+kleinb: Altmärkische Kleinbahn
+limit: OR
+uebergang: Beetzendorf (Pr Sa) 9 km
+uebergang: Bismark (Pr Sa) 52 km
+uebergang: Gardelegen 58 km
+uebergang: Wittingen Reichsb 30 km
+rwh: point.de.Rittergut-Nieps
+---
+name: Ahrain
+rnr: 26 446
+rang: IV
+strecke: Plattling—Landshut (Bay) Hbf 051
+b: Landshut (Bay) 76 030
+m: Regensburg 76 540
+v: Passau 76 410
+karte: Oh 4
+rwh: point.de.Ahrain
+---
+name: Ahrbergen
+kleinb: Straßenbahn Hannover
+limit: fr FW OR Breitspur 1,445 m
+uebergang: Hildesheim Hbf 10 km
+rwh: point.de.Ahrbergen
+---
+name: Ahrdorf (Ahr)
+rnr: 30 282
+rang: III
+strecke: Dümpelfeld—Jünkerath 629
+b: Gerolstein 80 020
+m: Gerolstein 80 510
+v: (2) Koblenz 80 400
+karte: Hf 6
+rwh: point.de.Ahrdorf-Ahr
+---
+name: Ahrensbök
+pnr: 50 825
+strecke: Bahnhof Gleschendorf—Ahrensbök
+karte: Mb 8
+rwh: point.de.Ahrensbök
+---
+name: Ahrensburg
+pnr: 45 869
+strecke: Hamburg—Lübeck
+karte: Mc 1
+rwh: point.de.Ahrensburg
+---
+name: Ahrensdorf{Mu Templin}
+rnr: 28 201
+rang: H
+limit: u
+strecke: Eberswalde—Fürstenberg (Meckl) 605
+b: Eberswalde 78 000
+m: Eberswalde 78 500
+v: (1) Stettin 78 420
+karte: Pc 8
+rwh: point.de.Templin-Ahrensdorf
+---
+name: Ahrensfelde
+rnr: 03 249
+rang: III
+limit: b
+strecke: Wriezen—Lichtenberg-Friedrichsfelde 639
+b: (9) Berlin 53 140
+m: (1) Berlin 53 500
+v: (2) Berlin 53 420
+karte: Pd 5
+rwh: point.de.Ahrensfelde
+---
+name: Ahrensfelde (Bez Bremen)
+kleinb: Bremervörde—Osterholz
+limit: OK
+uebergang: Bremervörde 46 km
+uebergang: Osterholz-Scharmbeck 2 km
+rwh: point.de.Ahrensfelde-Bremen
+---
+name: Ahrensfelde Friedhof
+rnr: 03 250
+rang: IV
+limit: og
+strecke: Wriezen—Lichtenberg-Friedrichsfelde 639
+b: (9) Berlin 53 140
+m: (1) Berlin 53 500
+v: (2) Berlin 53 420
+karte: Pd 5
+rwh: point.de.Ahrensfelde-Friedhof
+---
+name: Ahrensfelderdamm
+kleinb: Bremervörde—Osterholz
+limit: A FW OR
+uebergang: Bremervörde 45 km
+uebergang: Osterholz-Scharmbeck 3 km
+rwh: point.de.Ahrensfelderdamm
+

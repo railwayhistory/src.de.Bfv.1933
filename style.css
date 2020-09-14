@@ -1,0 +1,50 @@
+body {
+	margin: 8ex 4em;
+	font-family: TeXGyreSchola;
+}
+
+
+/* Bahnhofsverzeichnis  */
+
+ul.bfv {
+	list-style: none;
+	padding: 0;
+}
+ul.bfv li {
+	padding-left: 16em;
+	text-indent: -16em;
+	margin: .4ex 0;
+	x-text-align: justify;
+}
+ul.bfv span.name {
+	font-weight: bold;
+	padding-right: .5em;
+	font-size: 110%;
+}
+ul.bfv span.nr {
+	padding-right: 1em;
+}
+ul.bfv span.nr b {
+	font-weight: bold;
+	font-family: sans;
+}
+ul.bfv span.rang {
+	padding-right: 1em;
+}
+ul.bfv span.item {
+	padding: 0 1em;
+}
+
+
+ul.bfv span.footnote {
+	font-weight: normal;
+	font-size: 75%;
+	position: relative;
+	bottom: .6ex;
+}
+ul.bfv span.footnote:after {
+	font-size: 133%;
+	position: relative;
+	bottom: -.3ex;
+	content: ")";
+}
