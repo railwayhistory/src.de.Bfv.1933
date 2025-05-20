@@ -1,0 +1,332 @@
+---
+name: Altheim-Rexingen
+rnr: 29 487
+rang: IV
+strecke: Horb—Schiltach 059
+b: Böblingen 79 010
+m: Tübingen 79 540
+v: (1) Stuttgart 79 410
+karte: Kh 5/6
+rwh: point.de.Altheim-Rexingen
+---
+name: Alt Heinrichau (Kr Frankenstein, Schlesien)
+kleinb: Frankenstein—Münsterberg—Nimptscher Kreisbahn
+limit: OR
+uebergang: Frankenstein (Schlesien) 21 km
+uebergang: Heinrichau (Schlesien) 5 km
+uebergang: Kurtwitz 19 km
+rwh: point.pl.Stary-Henryków
+---
+name: Althengstett
+rnr: 29 451
+rang: III
+strecke: Stuttgart—Calw 053
+b: Calw 79 020
+m: Stuttgart 79 520
+v: (1) Stuttgart 79 410
+karte: Kh 3
+rwh: point.de.Althengstett
+---
+name: Althochspeyer
+rnr: 17 165
+rang: IV
+limit: b
+strecke: Eichelscheid—Ludwigshafen (Rhein) 001
+b: (1) Kaiserslautern 67 000
+m: Kaiserslautern 67 500
+v: Kaiserslautern 67 400
+karte: Jg 6
+rwh: point.de.Althochspeyer
+---
+name: Althof
+rnr: 27 230
+rang: H und L+
+strecke: Wismar (Meckl)—Rostock Hbf 635
+b: Rostock 77 030
+m: Schwerin (Meckl) 77 500
+v: Schwerin (Meckl) 77 400
+karte: Nh 9
+rwh: point.de.Althof
+---
+name: Althof-Barten
+kleinb: Rastenburger Kleinbahnen
+limit: OR Sm
+uebergang: Gerdauen 18 km
+uebergang: Rastenburg 23 km
+rwh: point.pl.Stary-Dwór-Barciański
+---
+name: Althornbach
+rnr: 17 302
+rang: IV+
+limit: b
+strecke: Zweibrücken—Brenschelbach 639
+b: Zweibrücken 67 050
+m: Kaiserslautern 67 500
+v: Kaiserslautern 67 400
+karte: Jg 8
+rwh: point.de.Althornbach
+---
+name: Alt Hütten{Mu Bramstädt}
+rnr: 28 529
+rang: L
+limit: b u
+strecke: Falkenburg (Pom)—Bad Polzin 645
+b: (2) Stargard (Pom) 78 140
+m: Neustettin 78 510
+v: Stargard (Pom) 78 400
+karte: Sc 1
+rwh: point.pl.Dobino-Białogardzkie
+---
+name: Alt Hüttendorf
+rnr: 28 195
+rang: IV
+strecke: Eberswalde—Fürstenberg (Meckl) 605
+b: Eberswalde 78 000
+m: Eberswalde 78 500
+v: (1) Stettin 78 420
+karte: Pd 3
+rwh: point.de.Alt-Hüttendorf
+---
+name: Altingen (Württ)
+rnr: 29 328
+rang: IV
+strecke: Herrenberg—Tübingen 661
+b: Reutlingen 79 090
+m: Tübingen 79 540
+v: Tübingen 79 430
+karte: Kh 6
+rwh: point.de.Altingen-Württ
+---
+name: Alt Jabel
+rnr: 27 120
+rang: IV+
+limit: b
+strecke: Malliß—Lübtheen 6134
+b: (2) Ludwigslust 77 010
+m: Schwerin (Meckl) 77 500
+v: Schwerin (Meckl) 77 400
+karte: Nc 7
+rwh: point.de.Alt-Jabel
+---
+name: Alt Jablonken
+rnr: 16 260
+rang: III
+strecke: Deutsch Eylau—Allenstein 023
+b: (1) Allenstein 66 000
+m: Allenstein 66 500
+v: Allenstein 66 400
+karte: Wc 1
+rwh: point.pl.Stare-Jabłonki
+---
+name: Alt Jäglack
+kleinb: Rastenburger Kleinbahnen
+limit: OR Sm
+uebergang: Nordenburg 19 km
+uebergang: Rastenburg 29 km
+rwh: point.pl.Stare-Jegławki
+---
+name: Alt Jauer
+rnr: 04 285
+rang: III
+strecke: Königszelt—Raudten 043
+b: (2) Liegnitz 54 190
+m: Liegnitz 54 540
+v: Liegnitz 54 430
+karte: Se 7
+rwh: point.pl.Stary-Jawor
+---
+name: Altkarbe
+rnr: 25 107
+rang: III
+strecke: Grunewald—Schneidemühl 001
+b: (1) Schneidemühl 75 090
+m: Schneidemühl 75 540
+v: Schneidemühl 75 530{sic!}
+karte: Rd 3
+rwh: point.pl.Stare-Kurowo
+---
+name: Alt Karstädt
+rnr: 27 112
+rang: IV
+limit: b
+strecke: Dömitz—Ludwigslust 607
+b: (2) Ludwigslust 77 010
+m: Schwerin (Meckl) 77 500
+v: Schwerin (Meckl) 77 400
+karte: Nc 8
+rwh: point.de.Alt-Karstädt
+---
+name: Alt Kemnitz (Riesengeb)
+rnr: 04 114
+rang: III
+strecke: Hirschberg (Riesengeb) Hbf—Görlitz 061
+b: (2) Görlitz 54 130
+m: Hirschberg (Riesengeb) 54 550
+v: Görlitz 54 420
+karte: Rf 2
+rwh: point.pl.Stara-Kamienica
+---
+name: Altkessel
+rnr: 25 299
+rang: III
+strecke: Breslau—Stettin 021
+b: (29 Gronau 75 030
+m: Glogau 75 500
+v: Glogau 75 410
+karte: Re 2
+rwh: point.pl.Zielona-Góra-Stary-Kisielin
+---
+name: Alt Körtnitz
+rnr: 25 016
+rang: IV
+strecke: Arnswalde—Falkenburg (Pom) 669
+b: (1) Stargard (Pom) 75 140
+m: Schneidemühl 77 540
+v: Schneidemühl 77 430
+karte: Sc 7
+rwh: point.pl.Stara-Korytnica
+---
+name: Alt Kohlfurt
+rnr: 04 019
+rang: H
+limit: b
+strecke: Liegnitz—Sommerfeld 039
+b: Sorau 54 250
+m: Görlitz 54 540
+v: Görlitz 54 420
+karte: Re 7
+rwh: point.pl.Stary-Węgliniec
+---
+name: Alt Krüssow{Mu Heiligengrabe}
+pnr: 46 893
+limit: b u
+strecke: Pritzwalk—Neustrelitz
+karte: Oc 7
+rwh: point.de.Alt-Krüssow
+---
+name: Alt Küstrinchen
+kleinb: Freienwalde—Zehden
+limit: OR
+uebergang: Bad Freienwalde (Oder) 11 km
+rwh: point.pl.Stary-Kostrzynek
+---
+name: Altlandsberg
+kleinb: Altlandsberger Kleinbahn
+uebergang: Hoppegartern (Mark) 7 km
+rwh: point.de.Altlandsberg
+---
+name: Altleiningen
+rnr: 17 134
+rang: IV
+limit: b
+strecke: Grüntadt—Altleiningen 623
+b: Neustadt (Haardt) 67 040
+m: Ludwigshafen (Rhein) 67 540
+v: Ludwigshafen (Rhein) 67 410
+karte: Kg 4
+rwh: point.de.Altleiningen
+---
+name: Alt Libbehne
+rnr: 25 505
+rang: IV
+strecke: Glasow—Arnswalde 643
+b: Soldin 75 130
+m: Landsberg (Warthe) 75 530
+v: Küstrin 75 420
+karte: Rc 3
+rwh: point.pl.Lubiana-Pyrzycka
+---
+name: Alt Lüdersdorf
+rnr: 28 029
+rang: IV
+limit: b
+strecke: Oranienburg—Neustrelitz Reichsb 001
+b: Neustrelutz 78 100
+m: Eberswalde 78 500
+v: Stralsund 78 480
+karte: Pc 7
+rwh: point.de.Altlüdersdorf
+---
+name: Altmädewitz
+rnr: 28 363
+rang: IV
+limit: b
+strecke: Werneuchen—Jädickendorf 675
+b: Königsberg (Neum) 78 040
+m: Eberswalde 78 500
+v: Stargard (Pom) 78 400
+karte: Qd 1
+rwh: point.de.Altmädewitz
+---
+name: Altmannshof
+rnr: 26 221
+rang: H+
+limit: b
+strecke: Schwandorf—Nürnberg 031
+b: Amberg 76 000
+m: Weiden (Opf) 76 560
+v: Regensburg 76 420
+karte: Ng 6
+rwh: point.de.Altmannshof
+---
+name: Altmannshofen
+rnr: 29 215
+rang: H
+limit: p
+strecke: Herbertingen—Memmingen 073
+b: Leutkirch 79 080
+m: Ulm 79 560
+v: Ulm 79 440
+karte: Mi 1
+rwh: point.de.Altmannshofen
+---
+name: Altmannstein
+rnr: 20 418
+rang: IV+
+strecke: Ingolstadt—Riedenburg 637
+b: Ingolstadt 70 000
+m: Ingolstadt 70 500
+v: (2) München 70 410
+karte: Nh 2/3
+rwh: point.de.Altmannstein
+---
+name: Altmittweida
+rnr: 06 377
+rang: III
+strecke: Röderau—Chemnitz 049
+b: Döbeln 56 060
+m: Chemnitz 56 510
+v: Döbeln 56 440
+e: Leipzig 56 620
+karte: Of 3
+rwh: point.de.Altmittweida
+---
+name: Altmorschen
+rnr: 05 409
+rang: III
+strecke: Kassel—Bebra 023
+b: (1) Kassel 55 040
+m: Kassel 55 520
+v: Kassel 55 410
+karte: Le 8
+rwh: point.de.Altmorschen
+---
+name: Altmügeln
+rnr: 07 152
+rang: IV+
+limit: b e Smr
+strecke: Oschatz—Neichen-Zöhda 935
+b: Döbeln 56 060
+m: (1) Dresden 56 520
+v: Döbeln 56 440
+e: Leipzig 56 620
+karte: Pe 7
+rwh: point.de.Altmügeln
+---
+name: Alt Negentin
+kleinb: Greifswald—Jarmener Kleinbahn
+limit: FW Sm
+uebergang: Greifswald 18 km
+uebergang: Züssow 24 km
+rwh: point.de.Alt-Negentin
+

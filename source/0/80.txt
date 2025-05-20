@@ -1,0 +1,335 @@
+---
+name: Ahrenviöl
+rnr: 01 464
+rang: IV
+strecke: Jübeck—Husum 135
+b: Husum 51 080
+m: Flensburg 51 520
+v: Flensburg 51 410
+karte: Lb 4
+rwh: point.de.Ahrenviöl
+---
+name: Ahrweiler
+rnr: 15 527
+rang: III
+strecke: Remagen—Adenau 615
+b: (1) Koblenz 65 080
+m: Koblenz 65 520
+v: (1) Koblenz 65 440
+karte: Jf 4
+rwh: point.de.Ahrweiler
+---
+name: Ahütte
+rnr: 30 283
+rang: IV+
+limit: b
+strecke: Dümpelfeld—Jünkerath 629
+b: Gerolstein 80 020
+m: Gerolstein 80 510
+v: (2) Koblenz 80 400
+karte: Hf 6
+rwh: point.de.Ahütte
+---
+name: Aibling
+siehe: Bad Aibling
+---
+name: Aich
+rnr: 26 372
+rang: IV
+strecke: Landshut (Bay) Hbf—Mühldorf (Obb) 055
+b: Landshut (Bay) 76 030
+m: Regensburg 76 540
+v: Regensburg 76 420
+karte: Oh 5
+rwh: point.de.Aich-Niederbay
+---
+name: Aichach
+rnr: 02 135
+rang: III
+strecke: Ingolstadt—Augsburg Hbf 025
+bm: 52 011
+b: (2) Augsburg 52 010
+m: Augsburg 52 500
+v: Augsburg 52 400
+karte: Nh 4
+rwh: point.de.Aichach
+---
+name: Aichen{Mu Bayreuth Hbf}
+rnr: 22 273
+rang: H
+limit: u
+strecke: Bayreuth—Thurnau 665
+b: Bayreuth 72 040
+m: (1) Nürnberg 72 520
+v: (2) Nürnberg 72 430
+karte: Nf 8
+rwh: point.de.Aichen
+---
+name: Aichstetten
+rnr: 29 216
+rang: IV
+strecke: Herbertingen—Memmingen 073
+b: Leutkirch 79 080
+m: Ulm 79 560
+v: Ulm 79 440
+karte: Mi 1
+rwh: point.de.Aichstetten
+---
+name: Aidenbach
+rnr: 26 493
+rang: III
+strecke: Vilshofen (Ndb)—Aidenbach 601
+b: Passau 76 050
+m: Passau 76 520
+v: Passau 76 410
+karte: Ph 4
+rwh: point.de.Aidenbach
+---
+name: Aigeltshofen
+rnr: 29 222
+rang: H+
+limit: b
+strecke: Leutkirch—Sibratshofen 669
+b: Leutkirch 79 080
+m: Ulm 79 560
+v: Ulm 79 440
+karte: Mi1
+rwh: point.de.Aigeltshofen
+---
+name: Aigen (Inn){Mu Simmbach (Inn)}
+rnr: 20 007
+rang: H
+limit: e p u
+strecke: Pocking—Simbach (Inn) 633
+b: Mühldorf (Obb) 70 010
+m: (4) München 70 560
+v: (3) München 70 420
+karte: Oh 7
+rwh: point.de.Aigen-Inn
+---
+name: Aindorf{Mu Endorf (Obb)}
+rnr: 20 160
+rang: H
+limit: b e u
+strecke: Endorf (Obb)—Obing 615
+b: Rosenheim 70 080
+m: Rosenheim 70 570
+v: Rosenheim 70 430
+karte: Oi 2
+rwh: point.de.Aindorf
+---
+name: Aipl
+pnr: 43 931
+limit: og
+strecke: Brannenburg—Wendelstein
+karte: Oi 1
+rwh: point.de.Aipl
+---
+name: Aistaig
+rnr: 29 405
+rang: H
+limit: b
+strecke: Stuttgart—Immendingen 023
+b: Rottweil 79 100
+m: Tübingen 79 540
+v: Tübingen 79 430
+karte: Oi 1
+rwh: point.de.Aistaig
+---
+name: Aitrang
+rnr: 02 303
+rang: III
+strecke: Buchloe—Kempten (Allgäu) 007
+b: Kempten (Allgäu) 52 030
+m: Kempten (Allgäu) 52 520
+v: Kempten (Allgäu) 52 410
+karte: Mi 1
+rwh: point.de.Aitrang
+---
+name: Aken (Elbe)
+rnr: 12 303
+rang: II
+strecke: Köthen—Aken (Elbe) 681
+b: (3) Magdeburg 62 210
+m: Aschersleben 62 500
+v: Aschersleben 62 400
+karte: Oe 1
+rwh: point.de.Aken-Elbe
+---
+name: Akreschfronze (Kr Guhrau){Mu Piskorsine}
+pnr: 54 859
+limit: b u
+strecke: Steinau (Oder)—Herrnstadt
+karte: Se 5
+rwh: point.pl.Wrząca-Śląska
+---
+name: Alach (Kr Weißensee)
+kleinb: Erfurt—Nottleben
+limit: OR
+uebergang: Erfurt Nord 14 km
+rwh: point.de.Alach-Erfurt
+---
+name: Albachten
+rnr: 21 009
+rang: III
+strecke: Haltern (West)—Münster (Westf) Hbf 001
+b: (1) Münster (Westf) 71 430
+m: Münster (Westf) 71 520
+v: Münster (Westf) 71 430
+karte: Je 2
+rwh: point.de.Münster-Albachten
+---
+name: Albaum
+rnr: 08 328
+rang: IV
+strecke: Altenhundem—Erndtebrück 673
+b: Siegen 58 120
+m: Siegen 58 530
+v: Altena (Westf) 58 400
+karte: Ke 7
+rwh: point.de.Albaum
+---
+name: Albbruck
+rnr: 14 454
+rang: III
+strecke: Basel—Waldshut 141
+b: Waldshut 64 160
+m: Konstanz 64 530
+v: Basel 64 400
+karte: Ki 4
+rwh: point.de.Albbruck
+---
+name: Albendorf
+kleinb: Ziedertalbahn
+limit: OR
+uebergang: Landeshut (Schlesien) 33 km
+rwh: point.pl.Okrzeszyn
+---
+name: Albersdorf
+rnr: 01 449
+rang: III
+strecke: Neumünster—Heide 615
+bm: 51 121
+b: Neumünster 51 120
+m: Kiel 51 570
+v: Altona 51 400
+karte: Lb 7
+rwh: point.de.Albersdorf
+---
+name: Albersloh
+pnr: 60 918
+limit: b
+strecke: Münster (Westf)—Neubeckum
+karte: Je 3
+rwh: point.de.Albersloh
+---
+name: Albersrieth
+rnr: 26 126
+rang: IV+
+strecke: Weiden (Opf)—Eslarn 653
+b: Weiden (Opf) 76 090
+m: Weiden (Opf) 76 560
+m: Hof 76 400
+karte: Og 4
+rwh: point.de.Albersrieth
+---
+name: Albersweiler (Pfalz)
+rnr: 17 273
+rang: III
+limit: b
+strecke: Germersheim—Zweibrücken 019
+bm: 67 051
+b: Zweibrücken 67 050
+m: Ludwigshafen (Rhein) 67 540
+v: Ludwigshafen (Rhein) 67 410
+karte: Kg 7
+rwh: point.de.Albersweiler-Pfalz
+---
+name: Albert-Hauenstein
+rnr: 14 453
+rang: IV
+limit: og
+strecke: Basel—Waldshut 141
+b: Waldshut 64 160
+m: Konstanz 64 530
+v: Basel 64 400
+karte: Ki 4
+rwh: point.de.Albert-Hauenstein
+---
+name: Albertsruh
+rnr: 25 131
+rang: H
+limit: oe
+strecke: Schneidemühl—Konitz 007
+b: (1) Schneidemühl 75 090
+m: Schneidemühl 75 540
+v: Schneidemühl 75 430
+karte: Sc 9
+rwh: point.pl.Płociczno
+---
+name: Albig
+rnr: 19 046
+rang: IV
+strecke: Bingen (Rhein)—Worms 097
+b: Bad Kreuznach 69 000
+m: Worms 69 530
+v: Mainz 69 410
+karte: Kg 1
+rwh: point.de.Albig
+---
+name: Albisheim (Pfrimm)
+rnr: 17 183
+rang: III
+strecke: Langmeil (Pfalz)—Harxheim-Zell 041
+b: (1) Kaiserslautern 67 000
+m: Kaiserslautern 67 500
+v: Kaiserslautern 67 400
+karte: Kg 4
+rwh: point.de.Albisheim-Pfrimm
+---
+name: Albrechtau
+kleinb: Insterburger Kleinbahnen
+limit: OK Sm
+uebergang: Insterburg 34 km
+uebergang: Nordenburg 33 km
+rwh: point.ru.kg.Алёшкино
+---
+name: Albrechtsdorf
+rnr: 04 416
+rang: H+
+limit: e
+strecke: Breslau Hbf—Bad Charlottenbrunn 629
+b: Schweidnitz 54 230
+m: (2) Breslau 54 520
+v: Waldenburg (Schlesien) 54 450
+karte: Sf 3
+rwh: point.pl.Olbrachtowice
+---
+name: Albrechtsdorf (Kr Ückermünde)
+kleinb: Randower Kleinbahn
+limit: OR
+uebergang: Stöven (Bez Stettin) 46 km
+rwh: point.pl.Karszno
+---
+name: Albrechtshaus{Mu Stiege}
+pnr: 51 830
+limit: og Sm u
+strecke: Gernrode (Harz)—Eisfelder Talmühle
+karte: Me 6
+rwh: point.de.Albrechtshaus
+---
+name: Albrechtshöfen
+kleinb: Insterburger Kleinbahnen
+limit: OK Sm
+uebergang: Insterburg 26 km
+---
+name: Albshausen
+rnr: 11 428
+rang: III
+strecke: Gießen—Niederlahnstein 079
+b: Wetzlar 61 140
+m: Gießen 61 540
+v: Limburg (Lahn) 61 440
+karte: Kf 5
+rwh: point.de.Albshausen
+

@@ -1,0 +1,348 @@
+---
+name: Allenstein-Vorstadt
+rnr: 16 473
+rang: H
+strecke: Allenstein—Kobbelbude 011
+b: (1) Allenstein 66 000
+m: Allenstein 66 500
+v: Allenstein 66 400
+karte: Wc 2
+rwh: point.pl.Olsztyn-Zachodni
+---
+name: Allerbach{Mu Benneckenstein}
+pnr: 62 887
+limit: b Sm u
+strecke: Sorge—Elend
+karte: Me 3
+rwh: point.de.Allerbach
+---
+name: Allersberg
+rnr: 22 349
+rang: III
+strecke: Burgthann—Allersberg 617
+b: (3) Nürnberg 72 090
+m: (2) Nürnberg 72 540
+v: (2) Nürnberg 72 430
+karte: Ng 7
+rwh: point.de.Allersberg
+---
+name: Alling
+rnr: 26 312
+rang: IV
+strecke: Regensburg—Alling 633
+b: Regensburg 76 070
+m: Regensburg 76 540
+v: Regensburg 76 420
+karte: Nh 3
+rwh: point.de.Alling
+---
+name: Allmannsweier
+pnr: 42 989
+limit: Smr
+strecke: Ottenheim Rheinufer—Seelbach b Lahr
+karte: Jh 6
+rwh: point.de.Allmannsweier
+---
+name: Allmendingen
+rnr: 29 236
+rang: III
+strecke: Ulm—Sigmaringen 069
+b: Ulm 79 150
+m: Ulm 79 560
+v: Ulm 79 440
+karte: Lb 9
+rwh: point.de.Allmendingen
+---
+name: Allner{Mu Hennef RSE}
+pnr: 41 899
+limit: b oe Sm u
+strecke: Hennef (Sieg)—Waldbröl
+karte: Jf 2
+rwh: point.de.Allner
+---
+name: Allstedt
+rnr: 09 201
+rang: III
+strecke: Allstedt—Oberröblingen (Helme) 705
+b: (2) Erfurt 59 070
+m: Weißenfels 59 580
+v: Erfurt 59 410
+karte: Ne 5
+rwh: point.de.Allstedt
+---
+name: Allzunah
+kleinb: Rennsteig—Frauenwald
+limit: OK Stz
+uebergang: Rennsteig 3 km
+rwh: point.de.Allzunah
+---
+name: Almbachklamm{Mu Berchtesgaden Hbf}
+rnr: 20 093
+rang: H
+limit: e p u
+strecke: Berchtesgaden Hbf—Schellenberg 647
+b: Salzburg 70 100
+m: Rosenheim 70 570
+v: Rosenheim 70 430
+karte: Pi 1
+rwh: point.de.Almbachklamm
+---
+name: Alme
+rnr: 05 205
+rang: IV
+strecke: Paderborn—Brilon Wald 605
+b: (1) Paderborn 55 120
+m: Paderborn 55 570
+v: Paderborn 55 430
+karte: Ke 5
+rwh: point.de.Alme
+---
+name: Almena
+kleinb: Extertalbahn
+limit: OK
+uebergang: Barntrup 17 km
+uebergang: Rinteln Reichsb 11 km
+rwh: point.de.Almena-Rickbruch
+---
+name: Almke{Mu Schandelah}
+rnr: 13 158
+rang: H
+limit: u
+strecke: Oebisfelde—Schandelah 623
+b: (2) Braunschweig 63 040
+m: Braunschweig 63 500
+v: Braunschweig 63 410
+karte: Md 6
+rwh: point.de.Almke
+---
+name: Almsick
+pnr: 46 918
+limit: [b e]{beschränkter Gepäckverkehr}
+strecke: Borken (Westf)—Burgsteinfurt
+karte: Hd 9
+rwh: point.de.Almsick
+---
+name: Almstedt-Segeste
+rnr: 05 062
+rang: IV
+strecke: Elze—Bodenburg 635
+b: Seesen 55 140
+m: Göttingen 55 500
+v: Göttingen 55 400
+karte: Ld 9
+rwh: point.de.Almstedt-Segeste
+---
+name: Alpen
+rnr: 15 096
+rang: III
+strecke: Rheinkamp—Cleve 689
+b: Cleve 65 020
+m: Krefeld 65 560
+v: Krefeld 65 480
+karte: He 5
+rwh: point.de.Alpen
+---
+name: Alperbrück
+rnr: 08 412
+rang: IV
+strecke: Dieringhausen—Waldbröl Reichsb 657
+b: Olpe 58 110
+m: Siegen 58 530
+v: Gummersbach 58 420
+karte: Jf 2
+rwh: point.de.Alperbrück
+---
+name: Alpirsbach
+rnr: 29 508
+rang: III
+strecke: Horb—Schiltach 959
+bm: 79 011
+b: Böblingen 79 010
+m: Tübingen 79 540
+v: (1) Stuttgart 79 410
+karte: Kh 5
+rwh: point.de.Alpirsbach
+---
+name: Alsbach{Mu Bickenbach}
+rnr: 19 255
+rang: H
+limit: u
+strecke: Bickenbach—Seeheim 617
+b: (1) Darmstadt 69 020
+m: Darmstadt 69 500
+v: Darmstadt 69 400
+karte: Kg 2
+rwh: point.de.Alsbach
+---
+name: Alsdorf (Kr Aachen)
+rnr: 15 208
+rang: II
+strecke: Stolberg—Herzogenrath 657
+b: Jülich 65 070
+m: Aachen 65 510
+v: Aachen 65 400
+karte: Hf 1
+rwh: point.de.Alsdorf-Aachen
+---
+name: Alsdorf Kleinb
+kleinb: Geilenkirchener Kreisbahnen
+limit: OK Sm
+uebergang: Geilenkirchen 17 km
+rwh: point.de.Alsdorf-Aachen-Kreisb
+---
+name: Alsenborn
+rnr: 17 152
+rang: IV+
+limit: b
+strecke: Grünstadt—Enkenbach 625
+b: (1) Kaiserslautern 67 000
+m: Kaiserslautern 67 500
+v: Kaiserslautern 67 400
+karte: Jg 2
+rwh: point.de.Alsenborn
+---
+name: Alsenz
+rnr: 17 175
+rang: III
+strecke: Hochspeyer—Bad Münster am Stein 029
+b: (2) Kaiserslautern 67 010
+m: Kaiserslautern 67 500
+v: Kaiserslautern 67 400
+karte: Jg 3
+rwh: point.de.Alsenz
+---
+name: Alsfeld (Oberhess)
+rnr: 11 258
+rang: II
+strecke: Gießen—Fulda 093
+g: 259
+bm: 61 111
+b: Lauterbach (Hess) 61 110
+m: Fulda 61 520
+v: Fulda 61 420
+karte: Lf 1
+rwh: point.de.Alsfeld-Oberhess
+---
+name: Alsheim
+rnr: 19 115
+rang: III
+strecke: Mainz—Worms 015
+b: Worms 69 090
+m: Worms 69 530
+v: Mainz 69 410
+karte: Kg 2
+rwh: point.de.Alsheim
+---
+name: Alsleben (Saale)
+kleinb: Bebitz—Alsleben
+uebergang: Bebitz (Saalkr) 8 km
+rwh: point.de.Alsleben-Saale
+---
+name: Alst{Mu Sendenhorst}
+pnr: 61 918
+limit: [e og u]{beschränkter Gepäckverkehr}
+strecke: Münster (Westf)—Neubeckum
+karte: Je 3
+rwh: point.de.Alst
+---
+name: Alstätte
+pnr: 48 841
+strecke: Ahaus—Enschede
+karte: Hd 9
+rwh: point.de.Alstätte
+---
+name: Alstätte Grenze{Tarifpunkt}
+pnr: 49 841
+strecke: —
+karte: Hd 9
+rwh: point.int.Alstätte-Broekheurne
+---
+name: Alt Altmannsdorf
+rnr: 04 455
+rang: IV
+limit: b
+strecke: Breslau—Mittelwalde Ost 051
+b: (2) Breslau 54 030
+m: Neisse 54 580
+v: Neisse 54 440
+karte: Sf 6
+rwh: point.pl.Starczów
+---
+name: Altbach
+rnr: 29 058
+rang: III
+strecke: Stuttgart—Ulm 007
+b: Eßlingen 79 040
+m: Stuttgart 79 520
+v: (2) Stuttgart 79 420
+karte: Lh 2
+rwh: point.de.Altbach
+---
+name: Alt Bagnowen{ohne Mu}
+rnr: 16 437
+rang: H
+limit: e p u
+strecke: Rothfließ—Rudczanny 633
+b: Ortelsburg 66 280
+karte: Xc 1
+rwh: point.pl.Bagienice
+---
+name: Alt Banzin
+rnr: 28 348
+rang: IV
+limit: b
+strecke: Kolberg—Köslin 653
+b: Kolberg 78 020
+m: Stargard (Pom) 78 520
+v: Stargard (Pom) 78 400
+karte: Rb 9
+rwh: point.pl.Będzino
+---
+name: Altbeelitz
+rnr: 25 109
+rang: IV
+strecke: Grunewald—Schneidemühl 001
+b: (1) Schneidemühl 75 090
+m: Schneidemühl 75 540
+v: Schneidemühl 75 430
+karte: Rd 3
+rwh: point.pl.Stare-Bielice
+---
+name: Alt Bliesdorf
+kleinb: Oderbruchbahn
+limit: OR
+uebergang: Dahmsdorf-Müncheberg 96 km
+uebergang: Dolgelin 53 km
+uebergang: Fürstenwalde (Spree) 93 km
+uebergang: Golzow (Oderbruch) 41 km
+uebergang: Wriezen 4 km
+rwh: point.de.Alt-Bliesdorf
+---
+name: Alt Borck
+rnr: 28 335
+rang: IV+
+strecke: Gollnow—Kolberg 637
+b: Kolber 78 020
+m: Stargard (Pom) 78 520
+v: (2) Stettin 78 440
+karte: Rb 8
+rwh: point.de.Stary-Borek
+---
+name: Alt Buckow
+kleinb: Köslin—Bublitz—Belgard
+limit: OR
+uebergang: Belgard 22 km
+rwh: point.pl.Bukowo-Białogardzkie
+---
+name: Altchemnitz
+rnr: 06 636
+rang: H
+limit: e
+strecke: Chemnitz Süd—Stollberg (Sa) 685
+b: (2) Chemnitz 56 030
+m: Chemnitz 56 510
+v: (1) Chemnitz 56 420
+e: Chemnitz 56 600
+karte: Of 3
+rwh: point.de.Karl-Marx-Stadt-Markersdorfer-Straße
+

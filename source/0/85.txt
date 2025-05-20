@@ -1,0 +1,331 @@
+---
+name: Altenstadt Hb
+rnr: 29 085
+rang: III
+limit: oe og
+strecke: Stuttgart—Ulm 007
+b: Eßlingen 79 040
+m: Ulm: 79 560
+v: (2) Stuttgart 79 420
+karte: Lh 6
+rwh: point.de.Geislingen-West
+---
+name: Altenstadt (Hess)
+rnr: 11 199
+rang: IV
+strecke: Stockheim (Oberhess)—Vilbel Nord 631
+b: Friedberg (Hess) 61 040
+m: Hanau 61 560
+v: Gießen 61 430
+karte: Kf 9
+rwh: point.de.Altenstadt-Hess
+---
+name: Altenstadt (Obb)
+rnr: 02 287
+rang: IV+
+strecke: Peißenberg—Kaufbeuren 605
+b: (2) Augsburg 52 010
+m: Kempten (Allgäu) 52 520
+v: Augsburg 52 400
+karte: Mi 3
+rwh: point.de.Altenstadt-Oberbay
+---
+name: Altenstadt (Schw)
+rnr: 02 242
+rang: III
+strecke: Ulm—Kempten (Allgäu) 029
+b: Memmingen 52 050
+m: Kempten (Allgäu) 52 520
+v: Kempten (Allgäu) 52 410
+karte: Mh 7
+rwh: point.de.Altenstadt-Iller
+---
+name: Altenstadt (Württ)
+rnr: 29 087
+rang: IV
+strecke: Geislingen an der Steige—Wiesensteig 617
+b: Eßlingen 79 040
+m: Ulm 79 560
+v: (2) Stuttgart 79 420
+karte: Lh 6
+rwh: point.de.Geislingen-Altenstadt
+---
+name: Altensteig
+rnr: 29 483
+rang: III
+limit: Smr
+strecke: Nagold—Altensteig 915
+b: Calw 79 020
+m: Tübingen 79 540
+v: (1) Stuttgart 79 410
+karte: Kh 5
+rwh: point.de.Altensteig
+---
+name: Altentor
+pnr: 41 887
+limit: p Sm
+strecke: Nordhausen—Wernigerode
+karte: Me 6
+rwh: point.de.Nordhausen-Altentor
+---
+name: Altenvoerde
+rnr: 08 037
+rang: III
+strecke: Hagen-Kückelhausen—Altenvoerde 683
+b: (1) Hagen (Westf) 58 040
+m: Hagen (Westf) 58 520
+v: Hagen (Westf) 58 430
+karte: I Je 8
+rwh: point.de.Ennepetal-Altenvoerde
+---
+name: Altenwahlingen
+kleinb: Verden—Walsrode
+limit: OK
+uebergang: Verden (Aller) 22 km
+uebergang: Walsrode 18 km
+rwh: point.de.Altenwahlingen
+---
+name: Altenwald (Saar){Mu Salzbach (Saar)}
+snr: 044
+rang: A
+limit: op u
+strecke: Neunkirchen (Saar)—Saarbrücken
+karte: Jg 7
+rwh: point.de.Sulzbach-Saar-Altenwald
+---
+name: Altenwalde
+rnr: 13 818
+rang: IV+
+strecke: Speckenbüttel Pbf—Cuxhaven 639
+b: (1) Bremen 63 050
+m: (1) Bremen 63 510
+v: Bremen 63 420
+karte: Kc 3
+rwh: point.de.Altenwalde
+---
+name: Altenweddingen
+rnr: 13 322
+rang: III
+strecke: Schönebeck Pbf—Blumenberg 647
+b: (2) Magdeburg 63 200
+m: Magdeburg 63 570
+v: Magdeburg 63 400
+karte: Ne 2
+rwh: point.de.Altenweddingen
+---
+name: Altenwillershagen
+rnr: 28 091
+rang: IV
+limit: b
+strecke: Stralsund—Rostock 027
+b: (2) Stralsund 78 240
+m: Stralsund 78 580
+v: Stralsund 78 480
+karte: Ob 8
+rwh: point.de.Altenwillershagen
+---
+name: Alterkülz
+rnr: 30 156
+rang: IV+
+limit: b
+strecke: Simmern—Buchholz (Hunsrück) 611
+b: Bad Münster am Stein 80 000
+m: Bad Münster am Stein 80 500
+v: (2) Koblenz 80 400
+karte: Jf 8
+rwh: point.de.Alterkülz
+---
+name: Altersbach
+rnr: 09 370
+rang: H+
+limit: p
+strecke: Wernshausen—Zella-Mehlis 661
+b: Meiningen 59 140
+m: Eisenach 59 500
+v: Meiningen 59 430
+karte: Mf 2
+rwh: point.de.Altersbach
+---
+name: Altes Lager
+rnr: 12 393
+rang: III
+strecke: Jüterbog—Treuenbrietzen 637
+b: Wittenberg (Pr Sa) 62 250
+m: Wittenberg (Pr Sa) 62 580
+v: Dessau 62 420
+karte: Pd 7
+rwh: point.de.Altes-Lager
+---
+name: Alte Veste{ohne Mu}
+pnr: 43 864
+limit: e og u
+strecke: Fürth (Bay)—Cadolzburg
+karte: Mg 6
+rwh: point.de.Fürth-Alte-Veste
+---
+name: Alte Wöhr Stadtpark
+rnr: 01 119
+rang: H
+limit: p
+strecke: Blankenese—Ohlsdorf 145
+b: Hamburg 51 040
+m: Altona 51 500
+v: Hamburg 51 420
+karte: Mc 4
+rwh: point.de.Hamburg-Alte-Wöhr
+---
+name: Altfalter{Mu Nabburg}
+rnr: 26 173
+rang: H
+limit: e u
+strecke: Nabburg—Schönsee (Opf) 649
+b: Schwandorf 76 080
+m: Weiden (Opf) 76 560
+v: Hof 76 400
+karte: Og 4
+rwh: point.de.Altfalter
+---
+name: Altfelde
+rnr: 16 004
+rang: III
+strecke: Marienburg (Westpr)—Elbing 001
+b: Marienburg (Westpr) 66 140
+m: Königsberg (Pr) 66 540
+v: Marienburg (Westpr) 66 430
+karte: Vb 7
+rwh: point.pl.Stare-Pole
+---
+name: Altfelde Kleinb{nur für den Wagenladungsverkehr in den Monaten Oktober
+      und November j Js geöffnet}
+kleinb: Westpreußsiche Kleinbahnen
+limit: OK Sm W
+uebergang: Altfelde — km
+uebergang: Marienburg (Westpr) 18 km
+rwh: point.pl.Stare-Pole-Wąskotorowe
+---
+name: Altgandersheim
+rnr: 05 053
+rang: IV
+strecke: Kreiensen—Hildesheim 637
+b: Seesen 55 140
+m: Göttingen 55 500
+v: Göttingen 55 400
+karte: Me 1
+rwh: point.de.Altgandersheim
+---
+name: Altglashütten-Falkau
+rnr: 14 363
+rang: IV+
+limit: b
+strecke: Titisee—Seebrugg 637
+b: (2) Freiburg (Breisgau) 64 030
+m: Freiburg (Breisgau) 64 500
+v: Freiburg (Breisgau) 64 410
+karte: Ki 1
+rwh: point.de.Altglashütten-Falkau
+---
+name: Alt Glietzen
+kleinb: Freienwalde—Zehden
+limit: OR
+uebergang: Bad Freienwalde (Oder) 9 km
+rwh: point.de.Alt-Glietzen
+---
+name: Alt Grape
+kleinb: Pyritzer Kleinbahnen
+limit: OR
+uebergang: Altdamm 47 km
+uebergang: Greifenhagen 26 km
+uebergang: Pyritz 8 km
+uebergang: Stettin Gb 47 km
+rwh: point.pl.Stare-Chrapowo
+---
+name: Alt Grottkau
+rnr: 04 559
+rang: H+
+limit: b
+strecke: Neisse—Brieg 049
+b: Neisse 54 210
+m: Neisse 54 580
+v: Neisse 54 440
+karte: Tf 5
+rwh: point.pl.Stary-Grodków
+---
+name: Alt Guhrau
+kleinb: Lissa—Guhrau—Steinauer Kleinbahn
+limit: OR
+uebergang: Guhrau 3 km
+uebergang: Krehlau 36 km
+rwh: point.pl.Stara-Góra
+---
+name: Althaldensleben
+pnr: 41 883
+strecke: Neuhaldensleben—Eilsleben (Bez Magdeburg)
+karte: Nd 8
+rwh: point.de.Haldensleben-Alt
+---
+name: Althaldensleben Ost{Mu Althaldensleben}
+pnr: 52 883
+limit: p u
+strecke: Neuhaldensleben—Eilsleben (Bez Magdeburg)
+karte: Nd 8
+rwh: point.de.Althaldensleben-Ost
+---
+name: Althammer
+kleinb: Trachenberg—Militscher Kreisbahn
+limit: Sm St
+uebergang: Breslau—Rosenthal 76 km
+uebergang: Militsch 4 km
+uebergang: Trachenberg 41 km
+rwh: point.pl.Ruda-Milicka
+---
+name: Althegnenberg
+rnr: 02 145
+rang: III
+strecke: Augsburg—Maisach 023
+b: (1) Ausgburg 52 000
+m: Ausgburg 52 500
+v: Ausgburg 52 410
+karte: Nh 7
+rwh: point.de.Althegnenberg
+---
+name: Altheide Bad
+rnr: 04 478
+rang: III
+strecke: Glatz—Schlaney 623
+b: Glatz 54 100
+m: Neisse 54 580
+v: Neisse 54 440
+karte: Sf 5
+rwh: point.pl.Polanica-Zdrój
+---
+name: Altheide (Meckl)
+rnr: 28 094
+rang: H
+limit: e p
+strecke: Stralsund—Rostock 027
+b: (2) Stralsund 78 240
+m: Stralsund 78 580
+v: Stralsund 78 480
+karte: Ob 8
+rwh: point.de.Altheide-Meckl
+---
+name: Altheim (Hess)
+rnr: 19 299
+rang: IV
+strecke: Darmstadt—Aschaffenburg 007
+b: (2) Darmstadt 69 040
+m: Darmstadt 69 500
+v: Darmstadt 69 400
+karte: Kg 3
+rwh: point.de.Altheim-Hess
+---
+name: Altheim (Ndb)
+rnr: 26 447
+rang: IV
+strecke: Plattling—Landshut (Bay) Hbf 051
+b: Landshut (Bay) 76 030
+m: Regensburg 76 540
+v: Passau 76 410
+karte: Oh 4
+rwh: point.de.Altheim-Niederbay
+

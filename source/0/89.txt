@@ -1,0 +1,330 @@
+---
+name: Amern
+rnr: 15 140
+rang: III
+strecke: Dülken—Brüggen (Niederrh) 683
+b: M-Gladbach 65 160
+m: M-Gladabch 65 570
+v: Krefeld 65 480
+karte: He 7
+rwh: point.de.Amern
+---
+name: Ammelshain
+rnr: 06 318
+rang: IV+
+limit: b
+strecke: Trebsen-Pauschwitz—Beucha 771
+b: (5) Leipzig 56 160
+m: (1) Leipzig 56 550
+v: (1) Leipzig 56 470
+E: Leipzig 56 620
+karte: Oe 8
+rwh: point.de.Ammelshain
+---
+name: Ammendorf
+rnr: 12 096
+rang: II
+strecke: Weißenfels—Halle (Saale) 015
+bm: 62 111
+b: (1) Halle (Saale) 62 110
+m: Halle (Saale) 62 520
+v: Halle (Saale) 62 430
+karte: Oe 4
+rwh: point.de.Halle-Ammendorf
+---
+name: Ammerndorf (Mfr)
+rnr: 22 234
+rang: IV+
+strecke: Stein b Nürnberg—Unternbibert-Rügland 611
+b: (3) Nürnberg 72 090
+m: (2) Nürnberg 72 540
+v: (2) Nürnberg 72 430
+karte: Mg 6
+rwh: point.de.Ammerndorf-Mittelfr
+---
+name: Amöneburg (Kr Kassel)
+rnr: 11 270
+rang: IV+
+limit: b
+strecke: Burg u Nieder Gemünden—Kirchhain (Bez Kassel) 623
+b: Lauterbach (Hess) 61 110
+m: Gießen 61 540
+v: Fulda 61 420
+karte: Kf 3
+rwh: point.de.Amöneburg-Kassel
+---
+name: Amöneburg (Bez Kassel)
+kleinb: Ohmtalbahn (Kirchhain—Landesgrenze—Nieder Ofleiden){Eigentum der Deutschen Reichsbahn-Gesellschaft [RBD Frankfurt (Main)]}
+limit: OK
+uebergang: Kirchhain (Bez Kassel) 5 km
+uebergang: Nieder Ofleiden 5 km
+rwh: point.de.Amöneburg-Kassel
+---
+name: Amorbach
+rnr: 22 645
+rang: III
+strecke: Miltenberg—Amorbach 685
+b: Aschaffenburg 72 020
+m: Aschaffenburg 72 500
+v: Aschaffenburg 72 400
+karte: Lg 4
+rwh: point.de.Amorbach
+---
+name: Ampen
+kleinb: Ruhr-Lippe-Kleinbahnen
+limit: OR Sm
+uebergang: Neheim-Hüsten 32 km
+uebergang: Soest 6 km
+rwh: point.de.Ampen
+---
+name: Ampfing
+rnr: 20 047
+rang: III
+strecke: Simbach (Inn)—München 013
+bm: 70 011
+b: Mühldorf (Obb) 70 010
+m: (4) München 70 560
+v: (3) München 70 420
+karte: Oh 8
+rwh: point.de.Ampfing
+---
+name: Amselfing
+rnr: 26 414
+rang: IV
+limit: b
+strecke: Regensburg—Plattling 043
+b: Plattling 76 060
+m: Regensburg 76 540
+v: Passau 76 410
+karte: Oh 3
+rwh: point.de.Amselfing
+---
+name: Amstetten (Württ){Gemeinschaftsbf der RBD Stuttgart u der Württ Eisenb G}
+rnr: 29 096
+rang: II
+strecke: Stuttgart—Ulm 007
+b: Ulm 79 150
+m: Ulm 79 560
+v: Ulm 79 440
+karte: Lh 6
+rwh: point.de.Amstetten-Württ
+---
+name: Amtitz
+rnr: 25 349
+rang: III
+strecke: Grunewald—Breslau 009
+b: Frankfurt (Oder) 75 000
+m: Guben 75 510
+v: Frankfurt (Oder) 75 400
+karte: Qe 8
+rwh: point.pl.Gębice-Gubińskie
+---
+name: Amtshainersdorf{Mu Sebnitz (Sa)}
+rnr: 06 094
+rang: H
+limit: e u
+strecke: Bad Schandau—Neukirch (Laus) West 621
+b: Bautzen 56 010
+m: Bautzen 56 500
+v: Bautzen 56 410
+e: Dresden 56 610
+karte: Qf 1
+rwh: point.de.Amtshainersdorf
+---
+name: Audel
+kleinb: Moseltalbahn Trier—Bullay
+limit: OR
+uebergang: Bullay 49 km
+uebergang: Ruwer 50 km
+rwh: point.de.Andel
+---
+name: Anderbeck
+rnr: 13 335
+rang: IV
+strecke: Jerxheim—Nienhagen b Halberstadt 643
+b: Halberstadt 63 090
+m: Halberstadt 63 530
+v: Halberstadt 63 430
+karte: Md 9
+rwh: point.de.Anderbeck
+---
+name: Andernach
+rnr: 15 501
+rang: I
+strecke: Köln—Bingerbrück 057
+g: 502
+bm: (124) 65 082
+b: (1) Koblenz 65 080
+m: Koblenz 65 520
+v: (1) Koblenz 65 440
+karte: Jf 5
+rwh: point.de.Andernach
+---
+name: Anderten
+kleinb: Straßenbahnen Hannover
+limit: fr FW OR Breitspur 1,445 m
+uebergang: Sehnde 11 km
+---
+name: Anderten-Misburg
+rnr: 13 545
+rang: H
+strecke: Hannover Hbf—Lehrte Pbf 029
+b: (2) Hannover 63 140
+m: Hannover 63 550
+v: Hannover 63 450
+karte: Ld 6
+rwh: point.de.Hannover-Anderten-Misburg
+---
+name: Andorf
+kleinb: Lingen—Berge—Quakenbrück
+limit: OR Sm
+uebergang: Lingen (Ems) 45 km
+uebergang: Quakenbrück 11 km
+rwh: point.de.Andorf
+---
+name: Andreischken
+kleinb: Niederungsbahn
+limit: OR Sm
+uebergang: Groß Brittanien 13 km
+rwh: point.ru.kg.Крутое
+---
+name: Angelmodde
+pnr: 58 918
+limit: b
+strecke: Münster (Westf)—Neubeckum
+karte: Je 3
+rwh: point.de.Angelmodde
+---
+name: Angerburg
+rnr: 16 375
+rang: II
+strecke: Löwenhagen—Goldap 657
+bm: 66 061
+bw: 66 521
+b: Goldap 66 060
+m: Insterburg 66 520
+v: Insterburg 66 410
+karte: Xb 9
+rwh: point.pl.Węgorzewo
+---
+name: Angerburg Stadtwald{Mu Angerburg}
+rnr: 16 376
+rang: H
+limit: e p u
+strecke: Löwenhagen—Goldap 657
+b: Goldap 66 060
+m: Insterburg 66 520
+v: Insterburg 66 410
+karte: Kb 9
+rwh: point.pl.Węgorzewo-Park
+---
+name: Angerlinde
+kleinb: Insterburger Kleinbahnen
+limit: OR Sm
+uebergang: Insterburg 7 km
+rwh: point.ru.kg.Мичурино
+---
+name: Angermünde
+rnr: 28 215
+rang: I
+strecke: Bernau—Stettin Hbf 009
+g: 216
+bm: (1) 78 001
+bm: (2) 78 002
+bw: 78 501
+k: 78 421
+b: Eberswalde 78 000
+m: Eberswalde 78 500
+v: (1) Stettin 78 420
+karte: Pc 9
+rwh: point.de.Angermünde
+---
+name: Angermund
+rnr: 08 106
+rang: H
+strecke: Köln-Mülheim—Duisburg Hbf 075
+b: Düsseldorf 58 020
+m: Düsseldorf 58 510
+v: Düsseldorf 58 410
+karte: I He 6
+rwh: point.de.Angermund
+---
+name: Angern-Rogätz
+rnr: 13 050
+rang: II
+strecke: Stendal—Magdeburg Hbf 035
+b: Stendal 63 250
+m: Magdeburg 63 570
+v: Magdeburg 63 460
+karte: Nd 6
+rwh: point.de.Angern-Rogätz
+---
+name: Angersbach
+rnr: 11 253
+rang: IV
+strecke: Gießen—Fulda 093
+b: Lauterbach (Hess) 61 110
+m: Fulda 61 520
+v: Fulda 61 420
+karte: Lf 5
+rwh: point.de.Angersbach
+---
+name: Anglberg{Mu Mainburg}
+rnr: 20 474
+rang: H
+limit: e p u
+strecke: Freising—Mainburg 643
+b: Ingolstadt 70 000
+m: Ingolstadt 70 500
+v: (2) München 70 410
+karte: Nh 6
+rwh: point.de.Anglberg
+---
+name: Anholt
+kleinb: Isselburg—Anholt—Landesgrenze
+limit: OK Sm
+uebergang: Isselburg-Anholt 3 km
+---
+name: Ankensen
+rnr: 13 206
+rang: Hp+
+limit: b e
+strecke: Plockhorst—Peine 631
+b: (2) Hannover 63 140
+m: Hannover 63 550
+v: Hannover 63 450
+karte: Md 4
+rwh: point.de.Ankensen
+---
+name: Anklam
+rnr: 28 114
+rang: II
+strecke: Angermünde—Stralsund 015
+g: 115
+bm: 78 222
+b: (1) Stralsund 78 220
+m: Stralsund 78 580
+v: Stralsund 78 480
+karte: Pc 2
+rwh: point.de.Anklam
+---
+name: Anklam
+kleinb: Mecklenburg-Pommersche Schmalspurbahn
+limit: OR Sm
+uebergang: Anklam — km
+uebergang: Ferdinandshof 37 km
+uebergang: Friedland (Meckl) 36 km
+uebergang: Groß Daberkow 56 km
+rwh: point.de.Anklam-MPSB
+---
+name: Anklam Kleinb
+kleinb: Anklam—Lassaner Kleinbahn
+limit: OR Sm
+uebergang: Anklam — km
+rwh: point.de.Anklam-ALK
+---
+name: Ankum
+kleinb: Bersenbrück—Ankum
+uebergang: Bersenbrück 6 km
+rwh: point.de.Ankum
+

@@ -1,3 +1,4 @@
+#! /usr/bin/env python2.7
 import re
 
 class BaseItem(unicode):
@@ -173,6 +174,7 @@ class Bahnhof(list):
     def from_source(cls, f):
         lines = []
         last_line = None
+        link = None
         for line in f:
             line = line.rstrip()
             if not line or line.lstrip().startswith('#'):
@@ -191,15 +193,21 @@ class Bahnhof(list):
                 except KeyError:
                     raise RuntimeError, 'unknown key "%s"' % key
                 lines.append(item_class.from_source(value))
+                if key == "rwh":
+                    link = "https://www.railwayhistory.org/key/%s/" % value
 
             if line == '---':
                 break
             else:
                 last_line = line
-        return cls(lines)
+        res = cls(lines)
+        res.link = link
+        return res
 
     def dump_html(self, f):
         f.write('<li>')
+        if self.link is not None:
+            f.write('<a class="rwh-link" href="%s">&#8599;</a>' % self.link)
         for item in self:
             item.dump_html(f)
             f.write('&#8203;')
@@ -234,7 +242,7 @@ if __name__ == '__main__':
     has_errors = False
     bfv = []
     for name in sys.argv[1:-1]:
-        if not name.endswith(".yaml"):
+        if not name.endswith(".txt"):
             print "Skipping", name
             continue
         f = FileWithLines(name)

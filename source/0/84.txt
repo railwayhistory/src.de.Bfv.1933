@@ -1,0 +1,322 @@
+---
+name: Altendorf (Ruhr)
+rnr: 10 224
+rang: III
+strecke: Mülheim (Ruhr)-Heißen—Dalhausen (Ruhr) 147
+b: Bochum 60 000
+m: (2) Essen 60 570
+v: Bochum 60 400
+karte: I Je 4
+rwh: point.de.Altendorf-Ruhr
+---
+name: Altenerding{Mu Erding}
+rnr: 20 077
+rang: H
+limit: e p u
+strecke: Markt Schwaben—Erding 603
+b: (5) München 70 060
+m: (4) München 70 560
+v: (3) München 70 420
+karte: Nh 9
+rwh: point.de.Altenerding
+---
+name: Altenesch
+rnr: 23 109
+rang: H+{mit vollem Güterverkehr}
+strecke: Delmenhorst—Lemwerder 625
+b: (1) Oldenburg (Oldbg) 73 000
+m: Oldenburg (Oldbg) 73 500
+vb: Oldenburg (Oldbg) 73 730
+karte: Kc 8
+rwh: point.de.Altenesch
+---
+name: Altenfeld (Rhön){Mu Gersfeld (Rhön)}
+rnr: 11 247
+rang: H
+limit: e u
+strecke: Fulda—Gersfeld (Rhön) 609
+b: Fulda 61 050
+m: Fulda 61 520
+v: Fulda 61 420
+karte: Lf 6
+rwh: point.de.Altenfeld-Rhön
+---
+name: Altengamme
+kleinb: Hamburger Marschbahn
+limit: OK W
+uebergang: Bergedorf 22 km
+uebergang: Hamburg Hgbf 37 km
+rwh: point.de.Altengamme
+---
+name: Altenglan
+rnr: 17 234
+rang: II
+strecke: Bad Münster am Stein—Schönenberg-Kübelberg 059
+bm: 67 011
+b: (2) Kaiserslautern 67 010
+m: Kaiserslautern 67 500
+v: Kaiserslautern 67 400
+karte: Jg 5
+rwh: point.de.Altenglan
+---
+name: Altengörs
+rnr: 01 338
+rang: H
+strecke: Bad Oldesloe—Neumünster 027
+b: Bad Oldesloe 51 010
+m: Kiel 51 570
+v: Kiel 51 440
+karte: Mc 2
+rwh: point.de.Altengörs
+---
+name: Altengrabow
+kleinb: Kleinbahnen des Kreises Jerichow I
+limit: Sm und Normalspur{Dreischienenbetrieb}
+uebergang: Burg b Magdeburg 34 km
+uebergang: Gommern 33 km
+uebergang: Loburg Reichsb 13 km
+rwh: point.de.Altengrabow
+---
+name: Altengronau Nord
+rnr: 11 234
+rang: H
+strecke: Flieden—Gemünden (Main) 011
+b: Fulda 61 050
+m: Fulda 61 520
+v: Fulda 61 420
+karte: Lf 8
+rwh: point.de.Altengronau-Nord
+---
+name: Altengronau Süd
+rnr: 22 588
+rang: IV+
+strecke: Jossa—Wildflecken 695
+b: (2) Würzburg 72 130
+m: Aschaffenburg 72 500
+v: Aschaffenburg 72 400
+karte: Lf 8
+rwh: point.de.Altengronau-Süd
+---
+name: Altenhagen
+kleinb: Celle—Wittingen
+limit: OK
+uebergang: Celle 5 km
+uebergang: Wittingen Reichsb 47 km
+rwh: point.de.Altenhagen-Celle
+---
+name: Altenhagen (Pom)
+rnr: 28 317
+rang: IV
+limit: b
+strecke: Wietstock (Pom)—Wurow 641
+b: Kolberg 78 020
+m: Stargard (Pom) 78 520
+v: Stargard (Pom) 78 400
+karte: Rc 1
+rwh: point.pl.Dobiesław
+---
+name: Altenhagen b Treptow (Tollense)
+kleinb: Demminer Kleinbahnen West
+limit: OR Sm
+uebergang: Demmin 26 km
+uebergang: Stavenhagen 36 km
+uebergang: Treptow (Tollense) 28 km
+rwh: point.de.Altenhagen-Treptow
+---
+name: Altenhain b Brandis
+rnr: 06 319
+rang: IV+
+limit: b
+strecke: Trebsen-Pauschwitz—Beucha 771
+b: (5) Leipzig 56 160
+m: (1) Leipzig 56 550
+v: (1) Leipzig 56 470
+e: Leipzig 56 620
+karte: Oe 9
+rwh: point.de.Altenhain-Brandis
+---
+name: Altenhammer{Mu Floß}
+rnr: 26 120
+rang: L
+limit: b op u
+strecke: Floß—Flossenbürg 655
+b: Weiden (Opf) 76 090
+m: Weiden (Opf) 76 560
+v: Hof 76 400
+karte: Og 1/2
+rwh: point.de.Altenhammer
+---
+name: Altenhasungen
+rnr: 05 289
+rang: IV+
+strecke: Kassel—Volkmarsen 629
+b: (1) Kassel 55 040
+m: Kassel 55 520
+v: Warburg (Westf) 55 440
+karte: Le 4
+rwh: point.de.Altenhasungen
+---
+name: Altenhausen
+kleinb: Gardelegen—Neuhaldensleben—Weferlingen
+uebergang: Gardelegen 50 km
+uebergang: Neuhaldensleben 12 km
+uebergang: Weferlingen Reichsb 21 km
+rwh: point.de.Altenhausen-Haldensleben
+---
+name: Altenheim
+pnr: 46 848
+limit: Smr
+strecke: Kehl—Ottenheim
+karte: Jh 6
+rwh: point.de.Altenheim
+---
+name: Altenhof (Meckl)
+rnr: 27 146
+rang: IV
+limit: b
+strecke: Ganzlin—Röbel (Meckl) 643
+b: Waren (Müritz) 77 070
+m: Schwerin (Meckl) 77 500
+v: Schwerin (Meckl) 77 400
+karte: Oc 5
+rwh: point.de.Altenhof-Meckl
+---
+name: Altenhof (Schleswig)
+rnr: 01 390
+rang: IV
+limit: b
+strecke: Kiel-Hassee—Flensburg 619
+b: Kiel 51 090
+m: Kiel 51 570
+v: Kiel 51 440
+karte: Lb 6
+rwh: point.de.Altenhof-Schlesw
+---
+name: Altenhundem
+rnr: 08 262
+rang: I
+strecke: Finnentrop—Kreuztal 051
+g: 263
+bm: 58 121
+bw: 58 531
+b: Siegen 58 120
+m: Siegen 58 530
+v: Altena (Westf) 58 400
+karte: Ke 7
+rwh: point.de.Lennestadt-Altenhundem
+---
+name: Altenkirchen (Rügen)
+kleinb: Rügensche Kleinbahnen
+limit: OR Sm
+uebergang: Bergen (Rügen) 41 km
+rwh: point.de.Altenkirchen-Rügen
+---
+name: Altenkirchen (Westerw)
+rnr: 11 609
+rang: I
+strecke: Limburg (Lahn)—Altenkirchen (Westerw) 699
+g: 610
+bm: 61 131
+bw: 61 581
+b: (2) Neuwied 61 130
+m: Limburg (Lahn) 61 580
+v: Limburg (Lahn) 61 440
+karte: Jf 2
+rwh: point.de.Altenkirchen-Westerwald
+---
+name: Altenmarkt
+rnr: 20 136
+rang: IV+
+strecke: Traunstein—Garching 621
+b: Salzburg 70 100
+m: Rosenheim 70 570
+v: Rosenheim 70 430
+karte: Oh 8
+rwh: point.de.Altenmarkt-Alz
+---
+name: Altenmittlau
+kleinb: Freigerichter Kleinbahn
+limit: OR
+uebergang: Gelnhausen 9 km
+uebergang: Langenselbold 12 km
+rwh: point.de.Altenmittlau
+---
+name: Altenmühle (Westf)
+pnr: 69 855
+limit: Sm
+strecke: Lüdenscheid—Werdohl
+karte: Je 9
+rwh: point.de.Altenmühle-Westf
+---
+name: Altenmuhr
+rnr: 22 748
+rang: III
+strecke: Würzburg—Treuchtlingen 045
+b: Ansbach 72 000
+m: (1) Würzburg 72 560
+v: Würzburg 72 440
+karte: Mg 9
+rwh: point.de.Muhr-See
+---
+name: Alten Pleen
+kleinb: Franzburger Kreisbahnen
+limit: OR Sm
+uebergang: Barth 18 km
+uebergang: Damgarten 46 km
+uebergang: Stralsund 12 km
+rwh: point.de.Altenpleen
+---
+name: Altenplos{Mu Bayreuth Hbf}
+rnr: 22 274
+rang: H
+limit: b u
+strecke: Bayreuth—Thurnau 665
+b: Bayreuth 72 040
+m: (1) Nürnberg 72 520
+v: (2) Nürnberg 72 430
+karte: Ng 2
+rwh: point.de.Altenplos
+---
+name: Altenrheine
+rnr: 41 425
+rang: IV
+limit: b
+strecke: Rheine—Nortrup 607
+b: Burgsteinfurt 71 030
+m: Rheine 71 560
+v: Emden 71 400
+karte: Jd 8
+rwh: point.de.Altenrheine
+---
+name: Altenrheine Kleinb
+kleinb: Piesberg—Rheine
+limit: OR Smr
+uebergang: Altenrheine — km
+uebergang: Osnabrück-Eversburg 48 km
+rwh: point.de.Altenrheine-TN
+---
+name: Altenrüthen{Mu Rüthen}
+pnr: 52 919
+limit: [e og u]{beschränkter Gepäckverkehr}
+strecke: Brilon Stadt—Soest
+karte: Ke 5
+rwh: point.de.Altenrüthen
+---
+name: Altensalzkoth
+kleinb: Celle—Soltau, Celle—Munster
+limit: OK
+uebergang: Celle 17 km
+uebergang: Munster (Lager) 35 km
+uebergang: Soltau (Han) 43 km
+rwh: point.de.Altensalzkoth
+---
+name: Altenschwand
+rnr: 26 227
+rang: IV
+strecke: Furth i Wald—Schwandorf 025
+b: Amberg 76 000
+m: Weiden (Opf) 76 560
+v: Regensburg 76 420
+karte: Og 7
+rwh: point.de.Altenschwand
+

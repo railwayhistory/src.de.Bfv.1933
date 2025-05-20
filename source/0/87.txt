@@ -1,0 +1,336 @@
+---
+name: Alt Neu Döbern
+rnr: 12 586
+rang: III
+strecke: Lübbenau—Kamenz (Sa) 105
+b: (1) Cottbus 62 030
+m: Cottbus 62 510
+v: Cottbus 62 410
+karte: Qe 4
+rwh: point.de.Altdöbern
+---
+name: Altoberndorf
+rnr: 29 407
+rang: H
+strecke: Stuttgart—Immendingen 023
+b: Rottweil 79 100
+m: Tübingen 79 540
+v: Tübingen 79 430
+karte: Kh 8
+rwh: point.de.Altoberndorf
+---
+name: Altötting
+rnr: 20 039
+rang: III
+strecke: Mühldorf (Obb)—Burghausen (Obb) 629
+b: Mühldorf (Obb) 70 010
+m: (4) München 70 560
+v: (3) München 70 420
+karte: Oh 9
+rwh: point.de.Altötting
+---
+name: Altomünster
+rnr: 20 465
+rang: IV+
+strecke: Dachau Bahnhof—Altomünster 601
+b: (4) München 70 050
+m: (1) München 70 510
+v: (2) München 70 410
+karte: Nh 4
+rwh: point.de.Altomünster
+---
+name: Altona AKN
+pnr: 40 803
+strecke: Altona AKN—Neumünster Süd
+karte: Lc 6
+rwh: point.de.Hamburg-Altona-AKN
+---
+name: Altona Hbf{die E und G heißen Altona Hgbf}
+rnr: 01 093
+rang: I
+strecke: —
+e: 095
+g: 094
+f: 51 401
+k: 51 402
+bm: (1) 51 001
+bm: (2) 51 002
+bm: (3) 51 003
+bm: (4) 51 004
+bm: (5) 51 005
+bw: 51 541
+bww: 51 554
+b: Altona 51 000
+m: Altona 51 500
+v: Altona 51 400
+karte: Lc 6
+rwh: point.de.Hamburg-Altona
+---
+name: Altona Hbf Gepäckabf
+rnr: 01 097
+rang: A
+limit: b
+strecke: —
+karte: Lc 6
+---
+name: Altona Hgbf-Bahrenfeld
+siehe: Bahrenfeld
+---
+name: Altona Hgbf Friesenweg
+rnr: 01 099
+rang: A
+limit: b
+strecke: —
+karte: Lc 6
+---
+name: Altona Hgbf Kai
+rnr: 01 096
+rang: L
+limit: b
+strecke: —
+b: Altona 51 000
+m: Altona 51 500
+v: Altona 51 400
+karte: Lc 6
+rwh: point.de.Hamburg-Altona-Kai
+---
+name: Altona Holstenstraße
+rnr: 01 092
+rang: III
+limit: og
+strecke: Hamburg Hbf—Altona Hbf 087
+b: Altona 51 000
+m: Altona 51 500
+v: Altona 51 400
+karte: Lc 6
+rwh: point.de.Holstenstrasse
+---
+name: Altona-Rissen Ölweiche{A der G Altona-Rissen}
+rnr: 01 110
+rang: A
+limit: b
+strecke: —
+karte: Lc 6
+rwh: point.de.Hamburg-Rissen-Ölweiche
+---
+name: Altoschatz-Rosenthal
+rnr: 07 148
+rang: IV+
+limit: b e Smr
+strecke: Oschatz—Neichen-Zöhda 935
+b: Döbeln 56 060
+m: (1) Dresden 56 520
+v: Döbeln 56 440
+e: Leipzig 56 620
+karte: Pe 7
+rwh: point.de.Altoschatz-Rosenthal
+---
+name: Alt Rahlstedt
+kleinb: Altrahlstedt—Volksdorf
+limit: WA
+uebergang: Rahlstedt — km
+rwh: point.de.Alt-Rahlstedt
+---
+name: Altrandsberg
+rnr: 26 411
+rang: IV+
+strecke: Cham—Straubing 637
+b: Regensburg 76 070
+m: Regensburg 76 540
+v: Passau 76 410
+karte: Og 9
+rwh: point.de.Altrandsberg
+---
+name: Altranft
+rnr: 28 168
+rang: IV
+strecke: Eberswalde—Booßen 011
+b: Eberswalde 78 000
+m: Eberswalde 78 500
+v: (1) Stettin 78 420
+karte: Qd 1
+rwh: point.de.Altranft
+---
+name: Alt Reblin
+rnr: 28 486
+rang: IV
+strecke: Belgard—Groß Boschpol 023
+b: Stolp 78 200
+m: Stolp 78 570
+v: Stolp 78 460
+karte: Sb 6
+rwh: point.pl.Reblino
+---
+name: Alt Reetz
+rnr: 28 362
+rang: IV
+strecke: Werneuchen—Jädickendorf 675
+b: Königsberg (Neum) 78 040
+m: Eberswalde 78 500
+v: Stargard (Pom) 78 400
+karte: Qd 1
+rwh: point.de.Alt-Reetz
+---
+name: Altreichenau{Mu Neureichenau}
+rnr: 26 564
+rang: H und L
+limit: b e u
+strecke: Waldkirchen (Ndb)—Haidmühle 613
+b: Passau 76 050
+m: Passau 76 520
+v: Passau 76 410
+karte: Ph 3
+rwh: point.de.Altreichenau
+---
+name: Altrip
+rnr: 14 014
+rang: H+
+limit: e
+strecke: Mannheim—Karlsruhe 035
+b: (2) Mannheim 64 120
+m: Mannheim 64 550
+v: Mannheim 64 440
+karte: Kg 5
+rwh: point.de.Altrip
+---
+name: Alt Röhrsdorf
+rnr: 04 308
+rang: H+
+limit: b
+strecke: Striegau—Merzdorf (Kr Landshut, Schlesien) 671
+b: (2) Liegnitz 54 190
+m: Hirschberg (Riesengeb) 54 550
+v: Waldenburg (Schlesien) 54 450
+karte: Sf 1
+rwh: point.pl.Stare-Rochowice
+---
+name: Altroggenrahmede
+pnr: 51 855
+limit: p Sm
+strecke: Altena (Westf)—Lüdenscheid
+karte: Je 9
+rwh: point.de.Altroggenrahmede
+---
+name: Alt Rosenberg
+rnr: 24 140
+rang: IV
+strecke: Cziasnau—Noldau 019
+b: Kreuzburg (Oberschles) 74 030
+m: Kreuzburg (Oberschles) 74 520
+v: Oppeln 74 410
+karte: Uf 2
+rwh: point.pl.Stare-Olesno
+---
+name: Alt Rosenthal
+kleinb: Rastenburger Kleinbahnen
+limit: OR Sm
+uebergang: Rastenburg 6 km
+rwh: point.pl.Stara-Różanka
+---
+name: Altruppin
+pnr: 73 904
+strecke: Neuruppin—Löwenberg (Mark)
+karte: Od 3
+rwh: point.de.Altruppin
+---
+name: Alt Sanskow{Mu Bad Polzin}
+rnr: 28 530
+rang: L
+limit: b u
+strecke: Falkenburg (Pom)—Bad Polzin 645
+b: (2) Stargard (Pom) 78 140
+m: Neustettin 78 510
+v: Stargard (Pom) 78 400
+karte: Sc 1
+rwh: point.pl.Zajączkowo-Połczyńskie
+---
+name: Alt Schönau
+rnr: 04 155
+rang: H+
+limit: p
+strecke: Liegnitz—Merzdorf (Kr Landshut, Schlesien) 655
+b: (2) Liegnitz 54 190
+m: Liegnitz 54 570
+v: Liegnitz 54 430
+karte: Re 9/Rf 3
+rwh: point.pl.Stara-Kraśnica
+---
+name: Altschweier
+pnr: 41 814
+strecke: Bühl—Oberbühlertal
+karte: Kh 1
+rwh: point.de.Altschweier
+---
+name: Alt Schwerin
+rnr: 27 153
+rang: IV
+limit: b
+strecke: Karow (Meckl)—Waren (Müritz) 623
+b: Waren (Müritz) 77 070
+m: Schwerin (Meckl) 77 500
+v: Schwerin (Meckl) 77 400
+karte: Oc 5
+rwh: point.de.Alt-Schwerin
+---
+name: Altshausen
+rnr: 29 189
+karte: III
+strecke: Herbertingen—Memmingen 073
+bm: 79 081
+b: Leutkirch 79 080
+m: Ulm 79 560
+v: Ulm 79 440
+karte: Li 2
+rwh: point.de.Altshausen
+---
+name: Alt Sköpen
+kleinb: Niederungsbahn
+limit: OR Sm
+uebergang: Groß Brittanien 11 km
+rwh: point.ru.Мостовое
+---
+name: Alt Sommersdorf
+kleinb: Demminer Kleinbahnen West
+limit: OR Sm
+uebergang: Demmin 20 km
+uebergang: Stavenhagen 13 km
+uebergang: Treptow (Tollense) 51 km
+rwh: point.de.Alt-Sommersdorf
+---
+name: Altstadt (Saar)
+snr: 118
+rang: H
+limit: b
+strecke: Neunkirchen (Saar)—Homburg (Saar)
+karte: Jg 4
+rwh: point.de.Altstadt-Saar
+---
+name: Altstädten (Allgäu)
+pnr: 40 861
+limit: b
+strecke: Sonthofen—Oberstdorf
+karte: Mi 4
+rwh: point.de.Altstädten-Allgäu
+---
+name: Alt Sternberg
+rnr: 16 071
+rang: IV+
+limit: b e
+strecke: Königsberg (Pr)—Tilsit 673
+b: Tilsit 66 160
+m: Insterburg 66 520
+v: Insterburg 66 410
+karte: Xb 2
+rwh: point.ru.Подлипное
+---
+name: Alt Strunz
+rnr: 25 391
+rang: IV+
+limit: e
+strecke: Fraustadt—Schalwa (Schlesien) 619
+b: (1) Glogau 75 020
+m: Glogau 75 500
+v: Glogau 75 410
+karte: Se 1
+rwh: point.pl.Stare-Strącze
+

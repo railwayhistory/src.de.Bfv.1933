@@ -11,13 +11,14 @@ ul.bfv {
 	padding: 0;
 }
 ul.bfv li {
-	padding-left: 16em;
+	padding-left: 15em;
 	text-indent: -16em;
 	margin: .4ex 0;
 	x-text-align: justify;
 }
 ul.bfv span.name {
 	font-weight: bold;
+	padding-left: 1em;
 	padding-right: .5em;
 	font-size: 110%;
 }
@@ -47,4 +48,17 @@ ul.bfv span.footnote:after {
 	position: relative;
 	bottom: -.3ex;
 	content: ")";
+}
+
+a.rwh-link {
+	float: left;
+	display: none;
+	text-decoration: none;
+	z-index: 100 !important;
+	width: 1em;
+	margin-left: -1em;
+}
+
+ul.bfv li:hover a.rwh-link {
+	display: inline-block;
 }

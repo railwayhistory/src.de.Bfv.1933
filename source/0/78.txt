@@ -67,7 +67,7 @@ name: Ackelningken
 kleinb: Niederungsbahn
 limit: OK Sm
 uebergang: Groß Brittanien 29 km
-rwh: point.ru.Ровное
+rwh: point.ru.kg.Ровное
 ---
 name: Ackendorf
 pnr: 43 883
@@ -191,7 +191,7 @@ b: (1) Koblenz 65 080
 m: Koblenz 65 520
 v: (1) Koblenz 65 440
 karte: Hf 6
-rwg: point.de.Adenau
+rwh: point.de.Adenau
 ---
 name: Adendorf
 rnr: 01 160
@@ -268,7 +268,7 @@ name: Adolphschlieben-Pentlack
 kleinb: Insterburger Kleinbahnen
 limit: OK Sm
 uebergang: Nordenburg 5 km
-rwh: point.ru.Каменка
+rwh: point.ru.kg.Каменка
 ---
 name: Adorf (Erzgeb)
 rnr: 06 640

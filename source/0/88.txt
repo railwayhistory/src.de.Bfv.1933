@@ -1,0 +1,342 @@
+---
+name: Alttann
+rnr: 29 201
+rang: H
+limit: p
+strecke: Herbertingen—Memmingen 073
+b: Leutkrich 79 080
+m: Ulm 79 560
+v: Ulm 79 440
+karte: Li 3
+rwh: point.de.Alttann
+---
+name: Alt Tellin
+kleinb: Demminer Kleinbahnen Ost
+limit: OR Sm
+uebergang: Demmin 17 km
+uebergang: Treptow (Tollense) 35 km
+rwh: point.de.Alt-Tellin
+---
+name: Alt Tessin{Mu Parlowkrug}
+rnr: 28 282
+rang: H
+limit: u
+strecke: Altdamm—Ostswine 633
+b: (1) Stettin 78 160
+m: Stettin 78 540
+v: (2) Stettin 78 440
+karte: Qc 3
+rwh: point.pl.Troszyn
+---
+name: Alt Tramm
+rnr: 28 458
+rang: IV
+limit: b
+strecke: Belgard—Kolberg 651
+b: Kolberg 78 020
+m: Stargard (Pom) 78 520
+v: Stargard (Pom) 78 400
+karte: Rb 8
+rwh: point.pl.Stramnica
+---
+name: Alt Tucheband
+kleinb: Oderbruchbahn
+limit: OR
+uebergang: Dahmsdorf-Müncheberg 51 km
+uebergang: Dolgelin 9 km
+uebergang: Fürstenwalde (Spree) 49 km
+uebergang: Golzow (Oderbruch) 4 km
+uebergang: Wriezen 48 km
+rwh: point.de.Alt-Tucheband
+---
+name: Alt Ukta
+rnr: 16 500
+rang: IV
+strecke: Rothfließ—Rudzanny 633
+b: Ortelsburg 66 280
+karte: Xc 2
+rwh: point.pl.Ukta
+---
+name: Alt Valm
+rnr: 28 426
+rang: IV
+strecke: Schivelbein—Gramenz 647
+b: Neustettin 78 080
+m: Neustettin 78 510
+v: Stargard (Pom) 78 400
+karte: Sc 2
+rwh: point.pl.Stary-Chwalim
+---
+name: Altwarnsdorf
+cz-name: Starý Varnsdorf
+rnr: 06 026
+rang: IV
+limit: b
+strecke: Eibau—Mittelherwigsdorf 603
+b: Zittau 56 230
+m: Bautzen 56 500
+v: Bautzen 56 400
+e: Dresden 56 610
+karte: Qf 2
+rwh: point.cz.Varnsdorf-staré-nádraží
+---
+name: Alt Warthau-Nieschwitz
+kleinb: Bunzlauer Kleinbahn
+limit: OR
+uebergang: Bunzlau 10 km
+uebergang: Modlau 40 km
+uebergang: Neudorf (Gröditzberg) 18 km
+rwh: point.pl.Warta-Złotnicka
+---
+name: Alt Werder
+rnr: 28 336
+rang: IV
+limit: og
+strecke: Gollnow—Kolberg 637
+b: Kolberg 78 020
+m: Stargard (Pom) 78 520
+v: (2) Stettin 78 440
+karte: Rb 8
+rwh: point.de.Korzystno
+---
+name: Alt Weynothen
+rnr: 16 079
+rang: H+
+limit: b e
+strecke: Königsberg (Pr)—Tilsit 673
+b: Tilsit 66 160
+m: Insterburg 66 520
+v: Insterburg 66 410
+karte: Xa 9
+rwh: point.ru.kg.Октябрьское
+---
+name: Altwieck
+rnr: 28 468
+rang: III
+strecke: Belgard—Groß Boschpol 023
+b: Köslin 78 060
+m: Stolp 78 570
+v: Stolp 78 460
+karte: Sb 8
+rwh: point.pl.Wiekowo
+---
+name: Altwiesloch{Mu Wiesloch Stadt}
+pnr: 48 920
+limit: p u
+strecke: Wiesloch-Walldorf—Meckesheim
+karte: Kg 9
+rwh: point.de.Altwiesloch
+---
+name: Alt Wilmsdorf
+rnr: 04 477
+rang: H+
+strecke: Glatz—Schlaney 623
+b: Glatz 54 100
+m: Neisse 54 580
+v: Neisse 54 440
+karte: Sf 5
+rwh: point.pl.Stary-Wielisław
+---
+name: Alt Zarrendorf
+rnr: 28 057
+rang: H
+limit: p
+strecke: Neustrelitz Reichsb—Stralsund 003
+b: (2) Stralsund 78 420
+m: Stralsund 78 580
+v: Stralsund 78 480
+karte: Pb 7
+rwh: point.de.Zarrendorf
+---
+name: Altzauche-Burglehn
+kleinb: Spreewaldbahn
+limit: OK Sm
+uebergang: Cottbus 40 km
+uebergang: Lieberose 32 km
+uebergang: Lübben Reichsb 12 km
+rwh: point.de.Altzauche-Burglehn
+---
+name: Alvensleben-Dönnstedt
+kleinb: Gardelegen—Neuhaldensleben—Weferlingen
+uebergang: Gardelegen 49 km
+uebergang: Neuhaldensleben 11 km
+uebergang: Weferlingen Reichsb 43 km
+rwh: point.de.Alvensleben-Dönnstedt
+---
+name: Alverdissen
+kleinb: Exertalbahn
+limit: OK
+uebergang: Barntrup 6 km
+uebergang: Rinteln Reichsb 22 km
+rwh: point.de.Alverdissen
+---
+name: Alveslohe
+pnr: 45 823
+strecke: Elmshorn—Bad Oldesloe
+karte: Kc 3
+rwh: point.de.Alveslohe
+---
+name: Alvesse
+rnr: 13 261
+rang: H
+limit: b
+strecke: Hildesheim Hbf—Groß Gleidingen 067
+b: (2) Braunschweig 63 040
+m: Braunschweig 63 500
+v: Hameln 63 440
+karte: Md 8
+rwh: point.de.Alvesse
+---
+name: Alxnupönen
+kleinb: Pilkaller Kleinbahnen
+limit: OR Sm
+uebergang: Pillkallen 25 km
+rwh: point.ru.kg.Высоко
+---
+name: Alzenau (Bez Breslau)
+rnr: 04 555
+rang: III
+strecke: Neisse—Brieg 049
+b: Neisse 54 210
+m: Neisse 54 580
+v: Neisse 54 440
+karte: Tf 2
+rwh: point.pl.Olszanka
+---
+name: Alzenau-Burg{Mu Alzenau (Ufr)}
+pnr: 52 845
+limit: p u
+strecke: Kahl (Main)–Schöllkrippen
+karte: Lf 7
+rwh: point.de.Alzenau-Burg
+---
+name: Alzenau (Ufr)
+pnr: 42 845
+limit: b
+strecke: Kahl (Main)—Schöllkrippen
+karte: Lf 7
+rwh: point.de.Alzenau-Unterfr
+---
+name: Alzey
+rnr: 19 047
+rang: I
+strecke: Worms—Bingerbrück 097
+g: 048
+bm: 69 001
+bw: 69 531
+b: Bad Kreuznach 69 000
+m: Worms 69 530
+m: Mainz 69 410
+karte: Kg 1
+rwh: point.de.Alzey
+---
+name: Almalienhof{Mu Hohenfelde (Pom)}
+rnr: 28 346
+rang: L
+limit: b u
+strecke: Kolberg—Köslin 653
+b: Kolberg 78 020
+m: Stargard (Pom) 78 520
+v: Stargard (Pom) 78 400
+karte: Rb 9
+rwh: point.pl.Dworek-Koszaliński
+---
+name: Amalienhütte
+rnr: 08 315
+rang: IV
+strecke: Kreuztal—Amalienhütte 675
+b: Siegen 58 120
+m: Siegen 58 530
+v: Altena (Westf) 58 400
+karte: Kf 2
+rwh: point.de.Amalienhütte
+---
+name: Amberg
+rnr: 26 190
+rang: I
+strecke: Schwandorf—Nürnberg 031
+bm: (1) 76 001
+bm: (2) 76 002
+b: Amberg 76 000
+m: Weiden (Opf) 76 560
+v: Regensburg 76 420
+karte: Ng 6
+rwh: point.de.Amberg
+---
+name: Am Canal
+kleinb: Küstrin—Hammer
+limit: OR
+uebergang: Hammer (Kr Oststernberg) 34 km
+uebergang: Küstrin Neustadt Hbf 9 km
+rwh: point.pl.Twardoszek
+---
+name: Amdorf{Mu Uckersdorf}
+rnr: 11 626
+rang: H
+limit: e u
+strecke: Westerburg—Herborn (Kr Dillensburg) 721
+b: Wetzlar 61 140
+m: Gießen 61 540
+v: Limburg (Lahn) 61 440
+karte: Kf 1
+rwh: point.de.Amdorf
+---
+name: Amelinghausen-Sottorf
+kleinb: Lüneburg—Soltau
+uebergang: Lüneburg 23 km
+uebergang: Soltau (Han) 35 km
+rwh: point.de.Amelinghausen-Sottorf
+---
+name: Ameln
+rnr: 15 244
+rang: III
+strecke: Stolberg—Hochneukirch 649
+bm: (60) 65 072
+b: Külich 65 070
+m: M-Gladbach 65 570
+v: Aachen 65 400
+karte: Hf 2
+rwh: point.de.Ameln
+---
+name: Amelsbüren
+rnr: 21 544
+rang: IV
+strecke: Werne a d Lippe—Münster (Westf) 661
+b: (2) Münster (Westf) 71 150
+m: Münster (Westf) 71 520
+v: Münster (Westf) 71 430
+karte: Je 2
+rwh: point.de.Münster-Amelsbüren
+---
+name: Amelunxen
+rnr: 05 070
+rang: H
+limit: b
+strecke: Altenbeken—Nordhausen 007
+b: (2) Paderborn 55 130
+m: Paderborn 55 570
+v: Göttingen 55 400
+karte: Le 2
+rwh: point.de.Amelunxen
+---
+name: Amerang
+rnr: 20 159
+rang: IV+
+strecke: Endorf (Obb)—Obing 615
+b: Rosenheim 70 080
+m: Rosenheim 70 570
+v: Rosenheim 70 430
+karte: Oi 1
+rwh: point.de.Amerang
+---
+name: Amerika (Sa)
+rnr: 06 404
+rang: H+
+strecke: Glauchau—Wurzen 743
+b: (2) Chemnitz 56 030
+m: Zwickau (Sa) 56 570
+v: Döbeln 56 440
+e: Leipzig 56 620
+karte: Of 3
+rwh: point.de.Amerika-Sachs
+

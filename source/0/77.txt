@@ -126,7 +126,7 @@ name: Aachen West Grenze Montzen
 rnr: 15 203
 rang: T
 karte: Hf 1
-rwh; point.int.Aachen-West-Montzen
+rwh: point.int.Aachen-West-Montzen
 ---
 name: Aalen{Gemeinschaftsbf der RBD Stuttgart u der Württ Nebenbahn}
 rnr: 29 548
@@ -182,7 +182,7 @@ name: Abelischken
 kleinb: Insterburger Kleinbahnen
 limit: OK Sm
 uebergang: Nordenburg 16 km
-rwh: point.ru.Белкино
+rwh: point.ru.kg.Белкино
 ---
 name: Abelitz
 rnr: 21 103
@@ -249,7 +249,7 @@ kleinb: Insterburger Kleinbahnen
 limit: OR Sm
 uebergang: Insterburg 30 km
 uebergang: Nordenburg 29 km
-rwh: point.ru.Красноармейское
+rwh: point.ru.kg.Красноармейское
 ---
 name: Abtsbessingen-Bellstedt
 pnr: 45 833

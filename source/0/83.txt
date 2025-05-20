@@ -1,0 +1,344 @@
+---
+name: Alt Christburg
+rnr: 16 202
+rang: IV
+strecke: Marienwerder (Westpr)—Miswalde 679
+b: Marienburg (Westpr) 66 140
+m: Allenstein 66 500
+v: Marienburg (Westpr) 66 430
+rwh: point.pl.Stary-Dzierzgoń
+---
+name: Alt Damerow
+kleinb: Saatziger Kleinbahnen
+limit: OR Sm
+uebergang: Janikow 56 km
+uebergang: Stargard (Pom) 21 km
+uebergang: Trampke 11 km
+rwh: point.pl.Stara-Dąbrowa
+---
+name: Altdamm
+rnr: 28 269
+rang: II
+strecke: Stettin Hbf—Belgard 021
+g: 270
+bm: 78 181
+b: (2) Stettin 78 180
+m: Stettin 78 540
+v: (1) Stettin 78 420
+karte: Qc 6
+rwh: point.pl.Szczecin-Dąbie
+---
+name: Alt Dollstädt
+rnr: 16 181
+rang: IV
+strecke: Elbing—Osterode (Ostpr) 603
+b: (2) Allenstein 66 020
+m: Allenstein 66 500
+v: Allenstein 66 400
+karte: Vb 8
+rwh: point.pl.Stare-Dolno
+---
+name: Altdorf b Landshut (Bay)
+rnr: 26 354
+rang: IV+
+strecke: Landshut (Bay) Hbf—Rottenburg (Laaber) 625
+b: Landhut (Bay) 76 030
+m: Regensburg 76 540
+v: Regensburg 76 420
+karte: Oh 4
+rwh: point.de.Altdorf-Niederbay
+---
+name: Altdorf b Nürnberg
+rnr: 22 340
+rang: III
+strecke: Feucht—Altdorf b Nürnberg 613
+b: (3) Nürnberg 72 090
+m: (2) Nürnberg 72 540
+v: (2) Nürnberg 72 430
+karte: Ng 5
+rwh: point.de.Altdorf-Nürnberg
+---
+name: Alt Duvenstedt
+rnr: 01 412
+rang: IV
+limit: b
+strecke: Neumünster—Flensburg 117
+b: Flensburg 51 020
+m: Flensburg 51 520
+v: Flensburg 51 410
+karte: Lb 5
+rwh: point.de.Alt-Duvenstedt
+---
+name: Alteburg (Hess){Mu Gedern}
+rnr: 11 314
+rang: IV
+limit: b op u
+strecke: Lauterbach (Hess)—Stockheim (Oberhess) 631
+b: Lauterbach (Hess) 61 110
+m: Fulda 61 520
+v: Fulda 61 420
+karte: Lf 4
+rwh: point.de.Alteburg
+---
+name: Alte Drusel
+kleinb: Herkulesbahn
+limit: OR Sm Stz
+uebergang: Kassel-Wilhelmshöhe 5 km
+rwh: point.de.Kassel-Alte-Drusel
+---
+name: Alte Eiche{ohne Mu}
+rnr: 25 038
+rang: H
+limit: oe u
+strecke: Schneidemühl—Wulkow 649
+b: (2) Schneidemühl 75 110
+m: Schneidemühl 75 540
+v: Schneidemühl 75 430
+karte: Sc 8
+rwh: point.pl.Drzewoszewo
+---
+name: Altefähr
+rnr: 28 062
+rang: II
+strecke: Altefähr—Saßnitz 005
+bm: 78 221
+b: (1) Stralsund 78 220
+m: Stralsund 78 580
+v: Stralsund 78 480
+karte: Pb 7
+rwh: point.de.Altefähr
+---
+name: Altefähr Kleinb
+kleinb: Rügensche Kleinbahnen
+limit: OR Sm
+uebergang: Altefähr — km
+uebergang: Putbus 36 km
+rwh: point.de.Altefähr-Landesb
+---
+name: Alt Eiche{Mu Deutsch Eylau}
+rnr: 16 254
+rang: IV
+limit: [e u]{für den Verkehrsdienst unbesetzt}]
+strecke: Deutsch Eylau—Landesgrenze (gegen Rakowice) 037
+b: (1) Allenstein 66 000
+m: Allenstein 66 500
+v: Allenstein 66 400
+karte: Vc 5
+rwh: point.pl.Smolniki
+---
+name: Altena Kr Alt E
+pnr: 44 855
+limit: op Sm
+strecke: Altena (Westf)—Lüdenscheid
+karte: Je 9
+rwh: point.de.Altena-Westf-Kr-Alt-E
+---
+name: Altena Kronprinz
+pnr: 48 855
+limit: p Sm
+strecke: Altena (Westf)—Lüdenscheid
+karte: Je 9
+rwh: point.de.Altena-Westf-Kronprinz
+---
+name: Altena Mittlere Brücke
+pnr: 46 855
+limit: p Sm
+strecke: Altena (Westf)—Lüdenscheid
+karte: Je 9
+rwh: point.de.Altena-Westf-Mittlere-Brücke
+---
+name: Altena Steinerne Brücke
+pnr: 47 855
+limit: Sm
+strecke: Altena (Westf)—Lüdenscheid
+karte: Je 9
+rwh: point.de.Altena-Westf-Steinerne-Brücke
+---
+name: Altena (Westf)
+rnr: 08 285
+rang: II
+strecke: Hagen Hbf—Finnentrop 047
+g: 288
+bm: 58 001
+b: Altena (Westf) 58 000
+m: Altena (Westf) 58 500
+v: Altena (Westf) 58 400
+karte: I Je 9
+rwh: point.de.Altena-Westf
+---
+name: Altena (Westf) Reichsbf
+pnr: 45 855
+limit: og Sm
+strecke: Altena (Westf)—Lüdenscheid
+karte: Je 9
+rwh: point.de.Altena-Westf-Reichsbf
+---
+name: Altenahr
+rnr: 15 533
+strecke: Remagen—Adenau 615
+b: (1) Koblenz 65 080
+m: Koblenz 65 020
+v: (1) Koblenz 65 440
+karte: Hf 6
+rwh: point.de.Altenahr
+---
+name: Altenau (Bay)
+pnr: 49 867
+limit: b
+strecke: Murnau—Oberammergau
+karte: Ni 4
+rwh: point.de.Altenau-Bay
+---
+name: Altenau (Harz)
+rnr: 13 410
+rang: III
+strecke: Langelsheim—Altenau 651
+b: Goslar 63 080
+m: Halberstadt 63 530
+v: Halberstadt 63 430
+karte: Me 2
+rwh: point.de.Altenau-Oberharz
+---
+name: Altenbach
+rnr: 06 276
+rang: H
+limit: e
+strecke: Leipzig—Riesa 021
+b: (3) Leipzig 56 140
+m: (1) Leipzig 56 550
+v: (1) Leipzig 56 470
+e: Leipzig 56 620
+karte: Oe 6
+rwh: point.de.Altenbach
+---
+name: Altenbamberg
+rnr: 17 179
+rang: H+
+limit: b
+strecke: Hochspeyer—Bad Münster am Stein 029
+b: (2) Kaiserslautern 67 010
+m: Kaiserslautern 67 500
+v: Kaiserslautern 67 400
+karte: Jg 3
+rwh: point.de.Altenbamberg
+---
+name: Altenbauna
+kleinb: Kassel—Naumburg
+limit: OR
+uebergang: Kassel-Wilhelmshöhe 7 km
+rwh: point.de.Baunatal
+---
+name: Altenbeken
+rnr: 05 020
+rang: I
+strecke: Soest—Altenbeken 001
+g: 021
+bm: (1) 55 131
+bm: (2) 55 132
+bw: 55 571
+b: (2) Paderborn 55 130
+m: Paderborn 55 570
+v: Paderborn 55 430
+karte: Ke 3
+rwh: point.de.Altenbeken
+---
+name: Altenberg (Erzgeb)
+rnr: 07 054
+rang: IV
+limit: b Sm
+strecke: Heidenau—Altenberg (Erzgeb) 915
+b: Pirna 56 190
+m: (1) Dresden 56 520
+v: (1) Dresden 56 450
+e: Dresden 56 610
+karte: Pf 3
+rwh: point.de.Kurort-Altenberg-Erzgeb
+---
+name: Altenberge
+rnr: 21 148
+rang: III
+strecke: Münster (Westf) Hbf—Gronau (Westf) 101
+b: Burgsteinfurt 71 030
+m: Münster (Westf) 71 520
+v: Münster (Westf) 71 430
+karte: Jd 8
+rwh: point.de.Altenberge
+---
+name: Altenboitzen
+kleinb: Verden—Walsrode
+limit: OK
+uebergang: Verden (Aller) 29 km
+uebergang: Walsrode 11 km
+rwh: point.de.Altenboitzen
+---
+name: Altenbruch
+rnr: 01 203
+rang: III
+strecke: Harburg-Wilhelmsburg—Cuxhaven 043
+b: Glückstadt 51 030
+m: Harburg-Wilhelmsburg 51 560
+v: Hamburg 51 420
+karte: Kc 3
+rwh: point.de.Altenbruch
+---
+name: Altenbrunslar
+rnr: 05 372
+rang: H
+limit: p
+strecke: Kassel—Niederwalgern 035
+b: (2) Kassel 55 060
+m: Kassel 55 520
+v: Kassel 55 410
+karte: Le 8
+rwh: point.de.Felsberg-Altenbrunslar
+---
+name: Altenburg
+rnr: 06 686
+rang: I
+strecke: Reichenbach (Vogtl) ob Bf—Kieritzsch 085
+g: 687
+bm: (1) 56 001
+bm: (2) 56 002
+b: Altenburg 56 000
+m: (1) Leipzig 56 550
+v: Alteburg 56 400
+e: Leipzig 56 620
+karte: Of 2
+rwh: point.de.Altenburg
+---
+name: Altenburg-Rheinau{Bf der Schweizer Bundesbahnen auf deutschem Gebiet (RBD Karlsruhe)}
+strecke: Schaffhausen—Eglisau
+extra: —
+karte: Ki 2
+---
+name: Altenburschla
+rnr: 05 477
+rang: H+
+limit: p
+strecke: Niederhone b Eschwege—Treffurt 657
+b: Eschwege 55 000
+m: Göttingen 55 500
+v: Kassel 55 410
+karte: Me 7
+rwh: point.de.Altenburschla
+---
+name: Altencelle
+rnr: 13 185
+rang: IV+
+strecke: Celle Pbf—Gifhorn Stadt 615
+b: (3) Hannover 63 160
+m: Hannover 63 550
+v: Uelzen 63 470
+karte: Md 4
+rwh: point.de.Altencelle
+---
+name: Altendorf b Nabburg
+rnr: 26 176
+rang: IV+
+strecke: Nabburg—Schönsee (Opf) 649
+b: Schwandorf 76 080
+m: Weiden (Opf) 67 550
+v: Hof 76 400
+karte: Og 4
+rwh: point.de.Altendorf-Nabburg
+
